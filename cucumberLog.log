@@ -1,0 +1,623 @@
+2023-09-06 01:12:13,532 INFO  [Log] Main Page opened successfully 
+2023-09-06 01:12:50,863 INFO  [Log] Main Page opened successfully 
+2023-09-06 01:12:52,649 INFO  [Log] Clicked element is [[ChromeDriver: chrome on windows (46d1bb9d017ce5e7b6af0cd79e1bfa65)] -> xpath: /html/body/div[6]/div[2]/div/div/div[2]/div/div/button] 
+2023-09-06 01:18:04,458 INFO  [Log] Main Page opened successfully 
+2023-09-06 01:18:06,585 INFO  [Log] Clicked element is [[ChromeDriver: chrome on windows (102ed21c4415a2fd1eaeb1c3600ed87a)] -> xpath: /html/body/div[6]/div[2]/div/div/div[2]/div/div/button] 
+2023-09-06 01:18:08,356 INFO  [DriverManager] Driver Closed...... 
+2023-09-06 01:18:08,357 INFO  [Log]  is started... 
+2023-09-06 10:19:05,002 INFO  [Log] Main Page opened successfully 
+2023-09-06 10:19:05,857 INFO  [Log] Clicked element is [[ChromeDriver: chrome on windows (52bc6e2c59c23d20bfaabf2da84c4e5a)] -> xpath: /html/body/div[6]/div[2]/div/div/div[2]/div/div/button] 
+2023-09-06 10:19:06,673 INFO  [DriverManager] Driver Closed...... 
+2023-09-06 10:19:47,062 INFO  [Log] Main Page opened successfully 
+2023-09-06 10:19:47,369 INFO  [Log] Clicked element is [[ChromeDriver: chrome on windows (803b5c7302d810d18d2499ec1ec2e486)] -> xpath: /html/body/div[6]/div[2]/div/div/div[2]/div/div/button] 
+2023-09-06 10:20:35,884 INFO  [Log] Main Page opened successfully 
+2023-09-06 10:21:19,289 INFO  [Log] Main Page opened successfully 
+2023-09-06 10:21:34,388 INFO  [Log] Main Page opened successfully 
+2023-09-06 10:21:36,059 INFO  [Log] Clicked element is [[ChromeDriver: chrome on windows (8df0d1714f3951f03012d688cd9fe61c)] -> id: onetrust-accept-btn-handler] 
+2023-09-06 10:24:45,798 INFO  [Log] Main Page opened successfully 
+2023-09-06 10:24:47,123 INFO  [Log] Clicked element is [[ChromeDriver: chrome on windows (2ff11fb04fc0c5f54dbc30471d0d88b2)] -> id: onetrust-accept-btn-handler] 
+2023-09-06 10:29:00,501 INFO  [Log] Main Page opened successfully 
+2023-09-06 10:29:00,817 INFO  [Log] Clicked element is [[ChromeDriver: chrome on windows (6ef4b008229e5be74a069bd50e537808)] -> id: onetrust-accept-btn-handler] 
+2023-09-06 10:29:07,178 INFO  [Log] Clicked element is Proxy element for: DefaultElementLocator 'By.xpath: (//*[name()='svg'][@class='icon icon-close'])[2]' 
+2023-09-06 10:31:03,504 INFO  [Log] Main Page opened successfully 
+2023-09-06 10:31:05,221 INFO  [Log] Clicked element is [[ChromeDriver: chrome on windows (df0b53705b097f75554e3c8937ceba1e)] -> id: onetrust-accept-btn-handler] 
+2023-09-06 10:31:05,641 INFO  [Log] Clicked element is [[ChromeDriver: chrome on windows (df0b53705b097f75554e3c8937ceba1e)] -> xpath: (//*[name()='svg'][@class='icon icon-close'])[2]] 
+2023-09-06 11:01:44,519 INFO  [Log] Main Page opened successfully 
+2023-09-06 11:01:44,868 INFO  [Log] Clicked element is [[ChromeDriver: chrome on windows (3a5d552f918aa23e6d1a6ead6006fa59)] -> id: onetrust-accept-btn-handler] 
+2023-09-06 11:01:46,260 INFO  [Log] Clicked element is [[ChromeDriver: chrome on windows (3a5d552f918aa23e6d1a6ead6006fa59)] -> xpath: (//*[name()='svg'][@class='icon icon-close'])[2]] 
+2023-09-06 11:24:12,198 INFO  [Log] Main Page opened successfully 
+2023-09-06 11:24:12,557 INFO  [Log] Clicked element is [[ChromeDriver: chrome on windows (f581b4c4efa8fced2d9d0044490fa0f7)] -> id: onetrust-accept-btn-handler] 
+2023-09-06 11:24:12,986 INFO  [Log] Clicked element is [[ChromeDriver: chrome on windows (f581b4c4efa8fced2d9d0044490fa0f7)] -> xpath: (//*[name()='svg'][@class='icon icon-close'])[2]] 
+2023-09-06 11:25:03,960 INFO  [Log] Main Page opened successfully 
+2023-09-06 11:25:05,331 INFO  [Log] Clicked element is [[ChromeDriver: chrome on windows (8ada8e71b5411a22b7238bcf20a33471)] -> id: onetrust-accept-btn-handler] 
+2023-09-06 11:25:05,590 INFO  [Log] Clicked element is [[ChromeDriver: chrome on windows (8ada8e71b5411a22b7238bcf20a33471)] -> xpath: (//*[name()='svg'][@class='icon icon-close'])[2]] 
+2023-09-06 11:25:06,083 INFO  [Log] Sent text is şort to [[ChromeDriver: chrome on windows (8ada8e71b5411a22b7238bcf20a33471)] -> xpath: //input[@placeholder='Ürün, Marka Arayın']] 
+2023-09-06 11:26:31,635 INFO  [Log] Main Page opened successfully 
+2023-09-06 11:26:33,175 INFO  [Log] Clicked element is [[ChromeDriver: chrome on windows (b97229c9378111acaeec5977e06a3425)] -> id: onetrust-accept-btn-handler] 
+2023-09-06 11:26:33,542 INFO  [Log] Clicked element is [[ChromeDriver: chrome on windows (b97229c9378111acaeec5977e06a3425)] -> xpath: (//*[name()='svg'][@class='icon icon-close'])[2]] 
+2023-09-06 11:26:34,030 INFO  [Log] Sent text is şort to [[ChromeDriver: chrome on windows (b97229c9378111acaeec5977e06a3425)] -> xpath: //input[@placeholder='Ürün, Marka Arayın']] 
+2023-09-06 11:31:26,498 INFO  [Log] Main Page opened successfully 
+2023-09-06 11:31:28,237 INFO  [Log] Clicked element is [[ChromeDriver: chrome on windows (2cacf6f04b7beb4194720b188a1eeb7a)] -> id: onetrust-accept-btn-handler] 
+2023-09-06 11:31:28,456 INFO  [Log] Clicked element is [[ChromeDriver: chrome on windows (2cacf6f04b7beb4194720b188a1eeb7a)] -> xpath: (//*[name()='svg'][@class='icon icon-close'])[2]] 
+2023-09-06 11:31:29,067 INFO  [Log] Sent text is şort to [[ChromeDriver: chrome on windows (2cacf6f04b7beb4194720b188a1eeb7a)] -> xpath: //input[@placeholder='Ürün, Marka Arayın']] 
+2023-09-06 11:31:29,170 INFO  [Log] Sent text is  to [[ChromeDriver: chrome on windows (2cacf6f04b7beb4194720b188a1eeb7a)] -> xpath: //input[@placeholder='Ürün, Marka Arayın']] 
+2023-09-06 11:33:22,246 INFO  [Log] Main Page opened successfully 
+2023-09-06 11:33:22,561 INFO  [Log] Clicked element is [[ChromeDriver: chrome on windows (e06f296a5ddf222a3abd42a3e06814cf)] -> id: onetrust-accept-btn-handler] 
+2023-09-06 11:33:24,173 INFO  [Log] Clicked element is [[ChromeDriver: chrome on windows (e06f296a5ddf222a3abd42a3e06814cf)] -> xpath: (//*[name()='svg'][@class='icon icon-close'])[2]] 
+2023-09-06 11:33:24,963 INFO  [Log] Sent text is şort to [[ChromeDriver: chrome on windows (e06f296a5ddf222a3abd42a3e06814cf)] -> xpath: //input[@placeholder='Ürün, Marka Arayın']] 
+2023-09-06 11:33:25,244 INFO  [Log] Sent text is  to [[ChromeDriver: chrome on windows (e06f296a5ddf222a3abd42a3e06814cf)] -> xpath: //input[@placeholder='Ürün, Marka Arayın']] 
+2023-09-06 11:33:25,449 INFO  [Log] Sent text is gömlek to [[ChromeDriver: chrome on windows (e06f296a5ddf222a3abd42a3e06814cf)] -> xpath: //input[@placeholder='Ürün, Marka Arayın']] 
+2023-09-06 11:33:25,462 INFO  [Log] Send ENTER 
+2023-09-06 11:33:47,454 INFO  [Log] Main Page opened successfully 
+2023-09-06 11:33:47,737 INFO  [Log] Clicked element is [[ChromeDriver: chrome on windows (3a931bf9a719ac6b4fd026c63b6f03c4)] -> id: onetrust-accept-btn-handler] 
+2023-09-06 11:33:49,162 INFO  [Log] Clicked element is [[ChromeDriver: chrome on windows (3a931bf9a719ac6b4fd026c63b6f03c4)] -> xpath: (//*[name()='svg'][@class='icon icon-close'])[2]] 
+2023-09-06 11:33:49,923 INFO  [Log] Sent text is şort to [[ChromeDriver: chrome on windows (3a931bf9a719ac6b4fd026c63b6f03c4)] -> xpath: //input[@placeholder='Ürün, Marka Arayın']] 
+2023-09-06 11:33:56,029 INFO  [Log] Sent text is  to [[ChromeDriver: chrome on windows (3a931bf9a719ac6b4fd026c63b6f03c4)] -> xpath: //input[@placeholder='Ürün, Marka Arayın']] 
+2023-09-06 11:34:55,817 INFO  [Log] Main Page opened successfully 
+2023-09-06 11:34:56,141 INFO  [Log] Clicked element is [[ChromeDriver: chrome on windows (2708b539ab2b9c467bd5d23570c7a147)] -> id: onetrust-accept-btn-handler] 
+2023-09-06 11:34:57,593 INFO  [Log] Clicked element is [[ChromeDriver: chrome on windows (2708b539ab2b9c467bd5d23570c7a147)] -> xpath: (//*[name()='svg'][@class='icon icon-close'])[2]] 
+2023-09-06 11:34:58,121 INFO  [Log] Sent text is şort to [[ChromeDriver: chrome on windows (2708b539ab2b9c467bd5d23570c7a147)] -> xpath: //input[@placeholder='Ürün, Marka Arayın']] 
+2023-09-06 11:35:12,930 INFO  [Log] Sent text is gömlek to [[ChromeDriver: chrome on windows (2708b539ab2b9c467bd5d23570c7a147)] -> xpath: //input[@placeholder='Ürün, Marka Arayın']] 
+2023-09-06 11:35:12,946 INFO  [Log] Send ENTER 
+2023-09-06 11:35:50,959 INFO  [Log] Main Page opened successfully 
+2023-09-06 11:35:52,440 INFO  [Log] Clicked element is [[ChromeDriver: chrome on windows (69f646b9cde9c5847a2709fd07217332)] -> id: onetrust-accept-btn-handler] 
+2023-09-06 11:35:52,647 INFO  [Log] Clicked element is [[ChromeDriver: chrome on windows (69f646b9cde9c5847a2709fd07217332)] -> xpath: (//*[name()='svg'][@class='icon icon-close'])[2]] 
+2023-09-06 11:35:53,097 INFO  [Log] Sent text is şort to [[ChromeDriver: chrome on windows (69f646b9cde9c5847a2709fd07217332)] -> xpath: //input[@placeholder='Ürün, Marka Arayın']] 
+2023-09-06 11:35:53,378 INFO  [Log] Sent text is gömlek to [[ChromeDriver: chrome on windows (69f646b9cde9c5847a2709fd07217332)] -> xpath: //input[@placeholder='Ürün, Marka Arayın']] 
+2023-09-06 11:35:53,384 INFO  [Log] Send ENTER 
+2023-09-06 11:36:46,732 INFO  [Log] Main Page opened successfully 
+2023-09-06 11:36:48,618 INFO  [Log] Clicked element is [[ChromeDriver: chrome on windows (7d65c6a0cbbd05e77794b81c2a784928)] -> id: onetrust-accept-btn-handler] 
+2023-09-06 11:36:48,925 INFO  [Log] Clicked element is [[ChromeDriver: chrome on windows (7d65c6a0cbbd05e77794b81c2a784928)] -> xpath: (//*[name()='svg'][@class='icon icon-close'])[2]] 
+2023-09-06 11:36:49,425 INFO  [Log] Sent text is şort to [[ChromeDriver: chrome on windows (7d65c6a0cbbd05e77794b81c2a784928)] -> xpath: //input[@placeholder='Ürün, Marka Arayın']] 
+2023-09-06 11:36:49,700 INFO  [Log] Sent text is gömlek to [[ChromeDriver: chrome on windows (7d65c6a0cbbd05e77794b81c2a784928)] -> xpath: //input[@placeholder='Ürün, Marka Arayın']] 
+2023-09-06 11:36:49,709 INFO  [Log] Send ENTER 
+2023-09-06 11:54:16,211 INFO  [Log] Main Page opened successfully 
+2023-09-06 11:54:16,423 INFO  [Log] Clicked element is [[ChromeDriver: chrome on windows (b2790ba4fb8602fc3772f99130a39cfb)] -> id: onetrust-accept-btn-handler] 
+2023-09-06 11:54:16,862 INFO  [Log] Clicked element is [[ChromeDriver: chrome on windows (b2790ba4fb8602fc3772f99130a39cfb)] -> xpath: (//*[name()='svg'][@class='icon icon-close'])[2]] 
+2023-09-06 11:57:06,753 INFO  [Log] Main Page opened successfully 
+2023-09-06 11:57:07,329 INFO  [Log] Clicked element is [[ChromeDriver: chrome on windows (6faee160ac6ca64146c55b924fd4410b)] -> id: onetrust-accept-btn-handler] 
+2023-09-06 11:57:08,173 INFO  [Log] Clicked element is [[ChromeDriver: chrome on windows (6faee160ac6ca64146c55b924fd4410b)] -> xpath: (//*[name()='svg'][@class='icon icon-close'])[2]] 
+2023-09-06 11:57:08,829 INFO  [Log] Sent text is şort to [[ChromeDriver: chrome on windows (6faee160ac6ca64146c55b924fd4410b)] -> xpath: //input[@placeholder='Ürün, Marka Arayın']] 
+2023-09-06 11:58:45,748 INFO  [Log] Main Page opened successfully 
+2023-09-06 11:58:46,057 INFO  [Log] Clicked element is [[ChromeDriver: chrome on windows (c47d4eac2bda6caa7670353ea0630aa7)] -> id: onetrust-accept-btn-handler] 
+2023-09-06 11:58:47,577 INFO  [Log] Clicked element is [[ChromeDriver: chrome on windows (c47d4eac2bda6caa7670353ea0630aa7)] -> xpath: (//*[name()='svg'][@class='icon icon-close'])[2]] 
+2023-09-06 11:58:48,108 INFO  [Log] Sent text is şort to [[ChromeDriver: chrome on windows (c47d4eac2bda6caa7670353ea0630aa7)] -> xpath: //input[@placeholder='Ürün, Marka Arayın']] 
+2023-09-06 11:58:48,405 INFO  [Log] Sent text is gömlek to [[ChromeDriver: chrome on windows (c47d4eac2bda6caa7670353ea0630aa7)] -> xpath: //input[@placeholder='Ürün, Marka Arayın']] 
+2023-09-06 11:58:48,411 INFO  [Log] Send ENTER 
+2023-09-06 11:58:51,957 INFO  [Log] Clicked element is [[ChromeDriver: chrome on windows (c47d4eac2bda6caa7670353ea0630aa7)] -> xpath: (//div[@class='m-productCard__photo'])] 
+2023-09-06 12:17:44,090 INFO  [Log] Main Page opened successfully 
+2023-09-06 12:17:44,322 INFO  [Log] Clicked element is [[ChromeDriver: chrome on windows (a459d78c4596f91155988a23b1cc7135)] -> id: onetrust-accept-btn-handler] 
+2023-09-06 12:17:44,795 INFO  [Log] Clicked element is [[ChromeDriver: chrome on windows (a459d78c4596f91155988a23b1cc7135)] -> xpath: (//*[name()='svg'][@class='icon icon-close'])[2]] 
+2023-09-06 12:17:45,860 INFO  [Log] Sent text is şort to [[ChromeDriver: chrome on windows (a459d78c4596f91155988a23b1cc7135)] -> xpath: //input[@placeholder='Ürün, Marka Arayın']] 
+2023-09-06 12:17:46,165 INFO  [Log] Sent text is gömlek to [[ChromeDriver: chrome on windows (a459d78c4596f91155988a23b1cc7135)] -> xpath: //input[@placeholder='Ürün, Marka Arayın']] 
+2023-09-06 12:17:46,173 INFO  [Log] Send ENTER 
+2023-09-06 12:18:27,998 INFO  [Log] Main Page opened successfully 
+2023-09-06 12:18:30,063 INFO  [Log] Clicked element is [[ChromeDriver: chrome on windows (c56b99b826ee62d228fefee98613aae5)] -> id: onetrust-accept-btn-handler] 
+2023-09-06 12:18:30,472 INFO  [Log] Clicked element is [[ChromeDriver: chrome on windows (c56b99b826ee62d228fefee98613aae5)] -> xpath: (//*[name()='svg'][@class='icon icon-close'])[2]] 
+2023-09-06 12:18:31,078 INFO  [Log] Sent text is şort to [[ChromeDriver: chrome on windows (c56b99b826ee62d228fefee98613aae5)] -> xpath: //input[@placeholder='Ürün, Marka Arayın']] 
+2023-09-06 12:18:31,365 INFO  [Log] Sent text is gömlek to [[ChromeDriver: chrome on windows (c56b99b826ee62d228fefee98613aae5)] -> xpath: //input[@placeholder='Ürün, Marka Arayın']] 
+2023-09-06 12:18:31,371 INFO  [Log] Send ENTER 
+2023-09-06 12:19:08,570 INFO  [Log] Main Page opened successfully 
+2023-09-06 12:19:08,834 INFO  [Log] Clicked element is [[ChromeDriver: chrome on windows (7c645736a38a1b835e5fce44c5b4743b)] -> id: onetrust-accept-btn-handler] 
+2023-09-06 12:19:09,683 INFO  [Log] Clicked element is [[ChromeDriver: chrome on windows (7c645736a38a1b835e5fce44c5b4743b)] -> xpath: (//*[name()='svg'][@class='icon icon-close'])[2]] 
+2023-09-06 12:19:10,248 INFO  [Log] Sent text is şort to [[ChromeDriver: chrome on windows (7c645736a38a1b835e5fce44c5b4743b)] -> xpath: //input[@placeholder='Ürün, Marka Arayın']] 
+2023-09-06 12:19:10,641 INFO  [Log] Sent text is gömlek to [[ChromeDriver: chrome on windows (7c645736a38a1b835e5fce44c5b4743b)] -> xpath: //input[@placeholder='Ürün, Marka Arayın']] 
+2023-09-06 12:19:10,648 INFO  [Log] Send ENTER 
+2023-09-06 12:20:19,040 INFO  [Log] Main Page opened successfully 
+2023-09-06 12:20:19,340 INFO  [Log] Clicked element is [[ChromeDriver: chrome on windows (4150584dcd3ae499771fb24a122e7a6e)] -> id: onetrust-accept-btn-handler] 
+2023-09-06 12:20:19,781 INFO  [Log] Clicked element is [[ChromeDriver: chrome on windows (4150584dcd3ae499771fb24a122e7a6e)] -> xpath: (//*[name()='svg'][@class='icon icon-close'])[2]] 
+2023-09-06 12:20:20,867 INFO  [Log] Sent text is şort to [[ChromeDriver: chrome on windows (4150584dcd3ae499771fb24a122e7a6e)] -> xpath: //input[@placeholder='Ürün, Marka Arayın']] 
+2023-09-06 12:20:21,167 INFO  [Log] Sent text is gömlek to [[ChromeDriver: chrome on windows (4150584dcd3ae499771fb24a122e7a6e)] -> xpath: //input[@placeholder='Ürün, Marka Arayın']] 
+2023-09-06 12:20:21,174 INFO  [Log] Send ENTER 
+2023-09-06 12:23:26,198 INFO  [Log] Main Page opened successfully 
+2023-09-06 12:23:26,518 INFO  [Log] Clicked element is [[ChromeDriver: chrome on windows (121bc5afddcb5005cecb9e2d1be60dc9)] -> id: onetrust-accept-btn-handler] 
+2023-09-06 12:23:27,913 INFO  [Log] Clicked element is [[ChromeDriver: chrome on windows (121bc5afddcb5005cecb9e2d1be60dc9)] -> xpath: (//*[name()='svg'][@class='icon icon-close'])[2]] 
+2023-09-06 12:23:28,470 INFO  [Log] Sent text is şort to [[ChromeDriver: chrome on windows (121bc5afddcb5005cecb9e2d1be60dc9)] -> xpath: //input[@placeholder='Ürün, Marka Arayın']] 
+2023-09-06 12:23:28,733 INFO  [Log] Sent text is gömlek to [[ChromeDriver: chrome on windows (121bc5afddcb5005cecb9e2d1be60dc9)] -> xpath: //input[@placeholder='Ürün, Marka Arayın']] 
+2023-09-06 12:23:28,742 INFO  [Log] Send ENTER 
+2023-09-06 12:24:21,634 INFO  [Log] Main Page opened successfully 
+2023-09-06 12:24:22,838 INFO  [Log] Clicked element is [[ChromeDriver: chrome on windows (af89ceeda7ffbaf7dba5194ad1fd4af1)] -> id: onetrust-accept-btn-handler] 
+2023-09-06 12:24:23,008 INFO  [Log] Clicked element is [[ChromeDriver: chrome on windows (af89ceeda7ffbaf7dba5194ad1fd4af1)] -> xpath: (//*[name()='svg'][@class='icon icon-close'])[2]] 
+2023-09-06 12:24:23,759 INFO  [Log] Sent text is şort to [[ChromeDriver: chrome on windows (af89ceeda7ffbaf7dba5194ad1fd4af1)] -> xpath: //input[@placeholder='Ürün, Marka Arayın']] 
+2023-09-06 12:24:24,075 INFO  [Log] Sent text is gömlek to [[ChromeDriver: chrome on windows (af89ceeda7ffbaf7dba5194ad1fd4af1)] -> xpath: //input[@placeholder='Ürün, Marka Arayın']] 
+2023-09-06 12:24:24,081 INFO  [Log] Send ENTER 
+2023-09-06 12:25:24,606 INFO  [Log] Main Page opened successfully 
+2023-09-06 12:25:24,811 INFO  [Log] Clicked element is [[ChromeDriver: chrome on windows (0dc506726d63c469b818484942280d1a)] -> id: onetrust-accept-btn-handler] 
+2023-09-06 12:25:25,281 INFO  [Log] Clicked element is [[ChromeDriver: chrome on windows (0dc506726d63c469b818484942280d1a)] -> xpath: (//*[name()='svg'][@class='icon icon-close'])[2]] 
+2023-09-06 12:25:25,760 INFO  [Log] Sent text is şort to [[ChromeDriver: chrome on windows (0dc506726d63c469b818484942280d1a)] -> xpath: //input[@placeholder='Ürün, Marka Arayın']] 
+2023-09-06 12:25:26,072 INFO  [Log] Sent text is gömlek to [[ChromeDriver: chrome on windows (0dc506726d63c469b818484942280d1a)] -> xpath: //input[@placeholder='Ürün, Marka Arayın']] 
+2023-09-06 12:25:26,080 INFO  [Log] Send ENTER 
+2023-09-06 12:26:13,236 INFO  [Log] Main Page opened successfully 
+2023-09-06 12:26:13,610 INFO  [Log] Clicked element is [[ChromeDriver: chrome on windows (3312458032ee3367dafe03c103c1777d)] -> id: onetrust-accept-btn-handler] 
+2023-09-06 12:26:14,749 INFO  [Log] Clicked element is [[ChromeDriver: chrome on windows (3312458032ee3367dafe03c103c1777d)] -> xpath: (//*[name()='svg'][@class='icon icon-close'])[2]] 
+2023-09-06 12:26:15,332 INFO  [Log] Sent text is şort to [[ChromeDriver: chrome on windows (3312458032ee3367dafe03c103c1777d)] -> xpath: //input[@placeholder='Ürün, Marka Arayın']] 
+2023-09-06 12:26:15,741 INFO  [Log] Sent text is gömlek to [[ChromeDriver: chrome on windows (3312458032ee3367dafe03c103c1777d)] -> xpath: //input[@placeholder='Ürün, Marka Arayın']] 
+2023-09-06 12:26:15,748 INFO  [Log] Send ENTER 
+2023-09-06 12:27:46,992 INFO  [Log] Main Page opened successfully 
+2023-09-06 12:27:47,327 INFO  [Log] Clicked element is [[ChromeDriver: chrome on windows (21116d4c035d32aafcd343308ffe2032)] -> id: onetrust-accept-btn-handler] 
+2023-09-06 12:27:48,507 INFO  [Log] Clicked element is [[ChromeDriver: chrome on windows (21116d4c035d32aafcd343308ffe2032)] -> xpath: (//*[name()='svg'][@class='icon icon-close'])[2]] 
+2023-09-06 12:27:49,032 INFO  [Log] Sent text is şort to [[ChromeDriver: chrome on windows (21116d4c035d32aafcd343308ffe2032)] -> xpath: //input[@placeholder='Ürün, Marka Arayın']] 
+2023-09-06 12:27:49,429 INFO  [Log] Sent text is gömlek to [[ChromeDriver: chrome on windows (21116d4c035d32aafcd343308ffe2032)] -> xpath: //input[@placeholder='Ürün, Marka Arayın']] 
+2023-09-06 12:27:49,435 INFO  [Log] Send ENTER 
+2023-09-06 12:28:47,206 INFO  [Log] Main Page opened successfully 
+2023-09-06 12:28:47,476 INFO  [Log] Clicked element is [[ChromeDriver: chrome on windows (4d5a669f6e9ec0c03a1aed813409147b)] -> id: onetrust-accept-btn-handler] 
+2023-09-06 12:28:47,987 INFO  [Log] Clicked element is [[ChromeDriver: chrome on windows (4d5a669f6e9ec0c03a1aed813409147b)] -> xpath: (//*[name()='svg'][@class='icon icon-close'])[2]] 
+2023-09-06 12:28:48,648 INFO  [Log] Sent text is şort to [[ChromeDriver: chrome on windows (4d5a669f6e9ec0c03a1aed813409147b)] -> xpath: //input[@placeholder='Ürün, Marka Arayın']] 
+2023-09-06 12:28:48,945 INFO  [Log] Sent text is gömlek to [[ChromeDriver: chrome on windows (4d5a669f6e9ec0c03a1aed813409147b)] -> xpath: //input[@placeholder='Ürün, Marka Arayın']] 
+2023-09-06 12:28:48,952 INFO  [Log] Send ENTER 
+2023-09-06 12:28:54,239 INFO  [Log] Clicked element is [[ChromeDriver: chrome on windows (4d5a669f6e9ec0c03a1aed813409147b)] -> class name: m-productCard__photo] 
+2023-09-06 12:28:55,020 INFO  [Log] Successfully wrote to the file. 
+2023-09-06 12:38:54,245 INFO  [Log] Main Page opened successfully 
+2023-09-06 12:38:54,573 INFO  [Log] Clicked element is [[ChromeDriver: chrome on windows (7a46b6a70502c47c7c5c46dd5e16af79)] -> id: onetrust-accept-btn-handler] 
+2023-09-06 12:38:56,273 INFO  [Log] Clicked element is [[ChromeDriver: chrome on windows (7a46b6a70502c47c7c5c46dd5e16af79)] -> xpath: (//*[name()='svg'][@class='icon icon-close'])[2]] 
+2023-09-06 12:38:56,967 INFO  [Log] Sent text is şort to [[ChromeDriver: chrome on windows (7a46b6a70502c47c7c5c46dd5e16af79)] -> xpath: //input[@placeholder='Ürün, Marka Arayın']] 
+2023-09-06 12:38:57,281 INFO  [Log] Sent text is gömlek to [[ChromeDriver: chrome on windows (7a46b6a70502c47c7c5c46dd5e16af79)] -> xpath: //input[@placeholder='Ürün, Marka Arayın']] 
+2023-09-06 12:38:57,291 INFO  [Log] Send ENTER 
+2023-09-06 12:39:02,078 INFO  [Log] Clicked element is [[ChromeDriver: chrome on windows (7a46b6a70502c47c7c5c46dd5e16af79)] -> class name: m-productCard__photo] 
+2023-09-06 12:39:03,307 INFO  [Log] Successfully wrote to the file. 
+2023-09-06 12:40:05,642 INFO  [Log] Main Page opened successfully 
+2023-09-06 12:40:07,417 INFO  [Log] Clicked element is [[ChromeDriver: chrome on windows (2fc29e998e232ebf76cf076064083c97)] -> id: onetrust-accept-btn-handler] 
+2023-09-06 12:40:07,850 INFO  [Log] Clicked element is [[ChromeDriver: chrome on windows (2fc29e998e232ebf76cf076064083c97)] -> xpath: (//*[name()='svg'][@class='icon icon-close'])[2]] 
+2023-09-06 12:40:08,347 INFO  [Log] Sent text is şort to [[ChromeDriver: chrome on windows (2fc29e998e232ebf76cf076064083c97)] -> xpath: //input[@placeholder='Ürün, Marka Arayın']] 
+2023-09-06 12:40:08,642 INFO  [Log] Sent text is gömlek to [[ChromeDriver: chrome on windows (2fc29e998e232ebf76cf076064083c97)] -> xpath: //input[@placeholder='Ürün, Marka Arayın']] 
+2023-09-06 12:40:08,651 INFO  [Log] Send ENTER 
+2023-09-06 12:40:18,926 INFO  [Log] Clicked element is [[ChromeDriver: chrome on windows (2fc29e998e232ebf76cf076064083c97)] -> class name: m-productCard__photo] 
+2023-09-06 12:40:19,183 INFO  [Log] Successfully wrote to the file. 
+2023-09-06 12:41:44,402 INFO  [Log] Main Page opened successfully 
+2023-09-06 12:41:44,781 INFO  [Log] Clicked element is [[ChromeDriver: chrome on windows (8a75396182debfbef668191084f097c3)] -> id: onetrust-accept-btn-handler] 
+2023-09-06 12:41:45,971 INFO  [Log] Clicked element is [[ChromeDriver: chrome on windows (8a75396182debfbef668191084f097c3)] -> xpath: (//*[name()='svg'][@class='icon icon-close'])[2]] 
+2023-09-06 12:41:46,625 INFO  [Log] Sent text is şort to [[ChromeDriver: chrome on windows (8a75396182debfbef668191084f097c3)] -> xpath: //input[@placeholder='Ürün, Marka Arayın']] 
+2023-09-06 12:41:46,898 INFO  [Log] Sent text is gömlek to [[ChromeDriver: chrome on windows (8a75396182debfbef668191084f097c3)] -> xpath: //input[@placeholder='Ürün, Marka Arayın']] 
+2023-09-06 12:41:46,906 INFO  [Log] Send ENTER 
+2023-09-06 12:41:50,361 INFO  [Log] Clicked element is [[ChromeDriver: chrome on windows (8a75396182debfbef668191084f097c3)] -> class name: m-productCard__photo] 
+2023-09-06 12:41:50,632 INFO  [Log] Successfully wrote to the file. 
+2023-09-06 12:50:06,526 INFO  [Log] Main Page opened successfully 
+2023-09-06 12:50:38,438 INFO  [Log] Main Page opened successfully 
+2023-09-06 13:44:08,826 INFO  [Log] Main Page opened successfully 
+2023-09-06 13:47:20,898 INFO  [Log] Main Page opened successfully 
+2023-09-06 13:47:30,133 INFO  [Log] Main Page opened successfully 
+2023-09-06 13:58:36,642 INFO  [Log] Main Page opened successfully 
+2023-09-06 13:59:16,767 INFO  [Log] Main Page opened successfully 
+2023-09-06 13:59:50,153 INFO  [Log] Main Page opened successfully 
+2023-09-06 14:05:59,884 INFO  [Log] Main Page opened successfully 
+2023-09-06 14:10:50,352 INFO  [Log] Main Page opened successfully 
+2023-09-06 14:13:39,192 INFO  [Log] Main Page opened successfully 
+2023-09-06 14:13:41,646 INFO  [Log] Clicked element is [[ChromeDriver: chrome on windows (b9f9f253a4b14f46ef14686e7ff7eeba)] -> id: onetrust-accept-btn-handler] 
+2023-09-06 14:13:41,915 INFO  [Log] Clicked element is [[ChromeDriver: chrome on windows (b9f9f253a4b14f46ef14686e7ff7eeba)] -> xpath: (//*[name()='svg'][@class='icon icon-close'])[2]] 
+2023-09-06 14:13:42,587 INFO  [Log] Sent text is şort to [[ChromeDriver: chrome on windows (b9f9f253a4b14f46ef14686e7ff7eeba)] -> xpath: //input[@placeholder='Ürün, Marka Arayın']] 
+2023-09-06 14:13:43,034 INFO  [Log] Sent text is gömlek to [[ChromeDriver: chrome on windows (b9f9f253a4b14f46ef14686e7ff7eeba)] -> xpath: //input[@placeholder='Ürün, Marka Arayın']] 
+2023-09-06 14:13:43,058 INFO  [Log] Send ENTER 
+2023-09-06 14:13:46,824 INFO  [Log] Clicked element is [[ChromeDriver: chrome on windows (b9f9f253a4b14f46ef14686e7ff7eeba)] -> class name: m-productCard__photo] 
+2023-09-06 14:13:47,213 INFO  [Log] Successfully wrote to the file. 
+2023-09-06 14:13:47,304 INFO  [Log] Clicked element is [[ChromeDriver: chrome on windows (b9f9f253a4b14f46ef14686e7ff7eeba)] -> class name: m-variation__item] 
+2023-09-06 14:13:47,424 INFO  [Log] Clicked element is [[ChromeDriver: chrome on windows (b9f9f253a4b14f46ef14686e7ff7eeba)] -> id: addBasket] 
+2023-09-06 14:14:25,201 INFO  [Log] Main Page opened successfully 
+2023-09-06 14:14:27,378 INFO  [Log] Clicked element is [[ChromeDriver: chrome on windows (4ea7c33fe5e4741b89fb7dc9029da478)] -> id: onetrust-accept-btn-handler] 
+2023-09-06 14:14:27,657 INFO  [Log] Clicked element is [[ChromeDriver: chrome on windows (4ea7c33fe5e4741b89fb7dc9029da478)] -> xpath: (//*[name()='svg'][@class='icon icon-close'])[2]] 
+2023-09-06 14:14:28,148 INFO  [Log] Sent text is şort to [[ChromeDriver: chrome on windows (4ea7c33fe5e4741b89fb7dc9029da478)] -> xpath: //input[@placeholder='Ürün, Marka Arayın']] 
+2023-09-06 14:14:28,437 INFO  [Log] Sent text is gömlek to [[ChromeDriver: chrome on windows (4ea7c33fe5e4741b89fb7dc9029da478)] -> xpath: //input[@placeholder='Ürün, Marka Arayın']] 
+2023-09-06 14:14:28,444 INFO  [Log] Send ENTER 
+2023-09-06 14:14:32,269 INFO  [Log] Clicked element is [[ChromeDriver: chrome on windows (4ea7c33fe5e4741b89fb7dc9029da478)] -> class name: m-productCard__photo] 
+2023-09-06 14:14:32,678 INFO  [Log] Successfully wrote to the file. 
+2023-09-06 14:15:28,750 INFO  [Log] Main Page opened successfully 
+2023-09-06 14:15:30,390 INFO  [Log] Clicked element is [[ChromeDriver: chrome on windows (3137a36253956d1c868dc3935d248c1b)] -> id: onetrust-accept-btn-handler] 
+2023-09-06 14:15:30,951 INFO  [Log] Clicked element is [[ChromeDriver: chrome on windows (3137a36253956d1c868dc3935d248c1b)] -> xpath: (//*[name()='svg'][@class='icon icon-close'])[2]] 
+2023-09-06 14:15:31,470 INFO  [Log] Sent text is şort to [[ChromeDriver: chrome on windows (3137a36253956d1c868dc3935d248c1b)] -> xpath: //input[@placeholder='Ürün, Marka Arayın']] 
+2023-09-06 14:15:31,777 INFO  [Log] Sent text is gömlek to [[ChromeDriver: chrome on windows (3137a36253956d1c868dc3935d248c1b)] -> xpath: //input[@placeholder='Ürün, Marka Arayın']] 
+2023-09-06 14:15:31,785 INFO  [Log] Send ENTER 
+2023-09-06 14:15:35,714 INFO  [Log] Clicked element is [[ChromeDriver: chrome on windows (3137a36253956d1c868dc3935d248c1b)] -> class name: m-productCard__photo] 
+2023-09-06 14:15:36,003 INFO  [Log] Successfully wrote to the file. 
+2023-09-06 14:15:36,157 INFO  [Log] Clicked element is [[ChromeDriver: chrome on windows (3137a36253956d1c868dc3935d248c1b)] -> id: addBasket] 
+2023-09-06 14:16:46,548 INFO  [Log] Main Page opened successfully 
+2023-09-06 14:16:48,258 INFO  [Log] Clicked element is [[ChromeDriver: chrome on windows (dbc1b866e025d6aa7e1670f4ae9935be)] -> id: onetrust-accept-btn-handler] 
+2023-09-06 14:16:48,695 INFO  [Log] Clicked element is [[ChromeDriver: chrome on windows (dbc1b866e025d6aa7e1670f4ae9935be)] -> xpath: (//*[name()='svg'][@class='icon icon-close'])[2]] 
+2023-09-06 14:16:49,331 INFO  [Log] Sent text is şort to [[ChromeDriver: chrome on windows (dbc1b866e025d6aa7e1670f4ae9935be)] -> xpath: //input[@placeholder='Ürün, Marka Arayın']] 
+2023-09-06 14:16:49,769 INFO  [Log] Sent text is gömlek to [[ChromeDriver: chrome on windows (dbc1b866e025d6aa7e1670f4ae9935be)] -> xpath: //input[@placeholder='Ürün, Marka Arayın']] 
+2023-09-06 14:16:49,776 INFO  [Log] Send ENTER 
+2023-09-06 14:16:54,890 INFO  [Log] Clicked element is [[ChromeDriver: chrome on windows (dbc1b866e025d6aa7e1670f4ae9935be)] -> class name: m-productCard__photo] 
+2023-09-06 14:16:55,097 INFO  [Log] Successfully wrote to the file. 
+2023-09-06 14:16:55,229 INFO  [Log] Clicked element is [[ChromeDriver: chrome on windows (dbc1b866e025d6aa7e1670f4ae9935be)] -> class name: m-variation__item] 
+2023-09-06 14:16:55,369 INFO  [Log] Clicked element is [[ChromeDriver: chrome on windows (dbc1b866e025d6aa7e1670f4ae9935be)] -> id: addBasket] 
+2023-09-06 14:21:02,370 INFO  [Log] Main Page opened successfully 
+2023-09-06 14:21:23,328 INFO  [Log] Main Page opened successfully 
+2023-09-06 14:22:18,113 INFO  [Log] Main Page opened successfully 
+2023-09-06 14:24:18,946 INFO  [Log] Main Page opened successfully 
+2023-09-06 14:27:00,699 INFO  [Log] Main Page opened successfully 
+2023-09-06 14:27:00,879 INFO  [Log] Clicked element is [[ChromeDriver: chrome on windows (ca4f9b9ca870b7b5df1fc981bdb25fee)] -> id: onetrust-accept-btn-handler] 
+2023-09-06 14:27:01,288 INFO  [Log] Clicked element is [[ChromeDriver: chrome on windows (ca4f9b9ca870b7b5df1fc981bdb25fee)] -> xpath: (//*[name()='svg'][@class='icon icon-close'])[2]] 
+2023-09-06 14:27:01,863 INFO  [Log] Sent text is şort to [[ChromeDriver: chrome on windows (ca4f9b9ca870b7b5df1fc981bdb25fee)] -> xpath: //input[@placeholder='Ürün, Marka Arayın']] 
+2023-09-06 14:27:02,535 INFO  [Log] Sent text is gömlek to [[ChromeDriver: chrome on windows (ca4f9b9ca870b7b5df1fc981bdb25fee)] -> xpath: //input[@placeholder='Ürün, Marka Arayın']] 
+2023-09-06 14:27:02,613 INFO  [Log] Send ENTER 
+2023-09-06 14:27:08,685 INFO  [Log] Clicked element is [[ChromeDriver: chrome on windows (ca4f9b9ca870b7b5df1fc981bdb25fee)] -> class name: m-productCard__photo] 
+2023-09-06 14:27:09,844 INFO  [Log] Successfully wrote to the file. 
+2023-09-06 14:27:09,918 INFO  [Log] Clicked element is [[ChromeDriver: chrome on windows (ca4f9b9ca870b7b5df1fc981bdb25fee)] -> class name: m-variation__item] 
+2023-09-06 14:27:10,009 INFO  [Log] Clicked element is [[ChromeDriver: chrome on windows (ca4f9b9ca870b7b5df1fc981bdb25fee)] -> id: addBasket] 
+2023-09-06 14:27:17,063 INFO  [Log] Clicked element is Proxy element for: DefaultElementLocator 'By.xpath: //a[@title='Sepetim']' 
+2023-09-06 14:28:03,307 INFO  [Log] Main Page opened successfully 
+2023-09-06 14:28:14,894 INFO  [Log] Clicked element is [[ChromeDriver: chrome on windows (9a0fa467c67168f682d6f2b14108cfd4)] -> id: onetrust-accept-btn-handler] 
+2023-09-06 14:28:15,296 INFO  [Log] Clicked element is [[ChromeDriver: chrome on windows (9a0fa467c67168f682d6f2b14108cfd4)] -> xpath: (//*[name()='svg'][@class='icon icon-close'])[2]] 
+2023-09-06 14:28:15,707 INFO  [Log] Sent text is şort to [[ChromeDriver: chrome on windows (9a0fa467c67168f682d6f2b14108cfd4)] -> xpath: //input[@placeholder='Ürün, Marka Arayın']] 
+2023-09-06 14:28:16,004 INFO  [Log] Sent text is gömlek to [[ChromeDriver: chrome on windows (9a0fa467c67168f682d6f2b14108cfd4)] -> xpath: //input[@placeholder='Ürün, Marka Arayın']] 
+2023-09-06 14:28:16,018 INFO  [Log] Send ENTER 
+2023-09-06 14:28:20,294 INFO  [Log] Clicked element is [[ChromeDriver: chrome on windows (9a0fa467c67168f682d6f2b14108cfd4)] -> class name: m-productCard__photo] 
+2023-09-06 14:28:21,339 INFO  [Log] Successfully wrote to the file. 
+2023-09-06 14:28:21,429 INFO  [Log] Clicked element is [[ChromeDriver: chrome on windows (9a0fa467c67168f682d6f2b14108cfd4)] -> class name: m-variation__item] 
+2023-09-06 14:28:30,855 INFO  [Log] Clicked element is [[ChromeDriver: chrome on windows (9a0fa467c67168f682d6f2b14108cfd4)] -> id: addBasket] 
+2023-09-06 14:28:45,250 INFO  [Log] Clicked element is Proxy element for: DefaultElementLocator 'By.xpath: //a[@title='Sepetim']' 
+2023-09-06 14:28:59,408 INFO  [Log] Main Page opened successfully 
+2023-09-06 14:29:00,072 INFO  [Log] Clicked element is [[ChromeDriver: chrome on windows (c849c07f1073aebba486d279b843fa17)] -> id: onetrust-accept-btn-handler] 
+2023-09-06 14:29:00,538 INFO  [Log] Clicked element is [[ChromeDriver: chrome on windows (c849c07f1073aebba486d279b843fa17)] -> xpath: (//*[name()='svg'][@class='icon icon-close'])[2]] 
+2023-09-06 14:29:01,508 INFO  [Log] Sent text is şort to [[ChromeDriver: chrome on windows (c849c07f1073aebba486d279b843fa17)] -> xpath: //input[@placeholder='Ürün, Marka Arayın']] 
+2023-09-06 14:29:01,801 INFO  [Log] Sent text is gömlek to [[ChromeDriver: chrome on windows (c849c07f1073aebba486d279b843fa17)] -> xpath: //input[@placeholder='Ürün, Marka Arayın']] 
+2023-09-06 14:29:01,806 INFO  [Log] Send ENTER 
+2023-09-06 14:29:05,891 INFO  [Log] Clicked element is [[ChromeDriver: chrome on windows (c849c07f1073aebba486d279b843fa17)] -> class name: m-productCard__photo] 
+2023-09-06 14:29:06,091 INFO  [Log] Successfully wrote to the file. 
+2023-09-06 14:29:06,205 INFO  [Log] Clicked element is [[ChromeDriver: chrome on windows (c849c07f1073aebba486d279b843fa17)] -> class name: m-variation__item] 
+2023-09-06 14:29:06,315 INFO  [Log] Clicked element is [[ChromeDriver: chrome on windows (c849c07f1073aebba486d279b843fa17)] -> id: addBasket] 
+2023-09-06 14:29:10,695 INFO  [Log] Clicked element is Proxy element for: DefaultElementLocator 'By.xpath: //a[@title='Sepetim']' 
+2023-09-06 14:29:36,896 INFO  [Log] Main Page opened successfully 
+2023-09-06 14:29:37,287 INFO  [Log] Clicked element is [[ChromeDriver: chrome on windows (5e67419e3164b1a40e37b5972dc5c9c6)] -> id: onetrust-accept-btn-handler] 
+2023-09-06 14:29:38,595 INFO  [Log] Clicked element is [[ChromeDriver: chrome on windows (5e67419e3164b1a40e37b5972dc5c9c6)] -> xpath: (//*[name()='svg'][@class='icon icon-close'])[2]] 
+2023-09-06 14:29:39,141 INFO  [Log] Sent text is şort to [[ChromeDriver: chrome on windows (5e67419e3164b1a40e37b5972dc5c9c6)] -> xpath: //input[@placeholder='Ürün, Marka Arayın']] 
+2023-09-06 14:29:39,453 INFO  [Log] Sent text is gömlek to [[ChromeDriver: chrome on windows (5e67419e3164b1a40e37b5972dc5c9c6)] -> xpath: //input[@placeholder='Ürün, Marka Arayın']] 
+2023-09-06 14:29:39,458 INFO  [Log] Send ENTER 
+2023-09-06 14:29:42,930 INFO  [Log] Clicked element is [[ChromeDriver: chrome on windows (5e67419e3164b1a40e37b5972dc5c9c6)] -> class name: m-productCard__photo] 
+2023-09-06 14:29:43,156 INFO  [Log] Successfully wrote to the file. 
+2023-09-06 14:29:43,261 INFO  [Log] Clicked element is [[ChromeDriver: chrome on windows (5e67419e3164b1a40e37b5972dc5c9c6)] -> class name: m-variation__item] 
+2023-09-06 14:29:43,354 INFO  [Log] Clicked element is [[ChromeDriver: chrome on windows (5e67419e3164b1a40e37b5972dc5c9c6)] -> id: addBasket] 
+2023-09-06 14:30:45,781 INFO  [Log] Main Page opened successfully 
+2023-09-06 14:30:47,216 INFO  [Log] Clicked element is [[ChromeDriver: chrome on windows (0ed02fb92ad215f23d85e9b092cb592e)] -> id: onetrust-accept-btn-handler] 
+2023-09-06 14:30:47,336 INFO  [Log] Clicked element is [[ChromeDriver: chrome on windows (0ed02fb92ad215f23d85e9b092cb592e)] -> xpath: (//*[name()='svg'][@class='icon icon-close'])[2]] 
+2023-09-06 14:30:48,024 INFO  [Log] Sent text is şort to [[ChromeDriver: chrome on windows (0ed02fb92ad215f23d85e9b092cb592e)] -> xpath: //input[@placeholder='Ürün, Marka Arayın']] 
+2023-09-06 14:30:48,370 INFO  [Log] Sent text is gömlek to [[ChromeDriver: chrome on windows (0ed02fb92ad215f23d85e9b092cb592e)] -> xpath: //input[@placeholder='Ürün, Marka Arayın']] 
+2023-09-06 14:30:48,377 INFO  [Log] Send ENTER 
+2023-09-06 14:30:51,867 INFO  [Log] Clicked element is [[ChromeDriver: chrome on windows (0ed02fb92ad215f23d85e9b092cb592e)] -> class name: m-productCard__photo] 
+2023-09-06 14:30:52,115 INFO  [Log] Successfully wrote to the file. 
+2023-09-06 14:30:52,255 INFO  [Log] Clicked element is [[ChromeDriver: chrome on windows (0ed02fb92ad215f23d85e9b092cb592e)] -> class name: m-variation__item] 
+2023-09-06 14:30:52,372 INFO  [Log] Clicked element is [[ChromeDriver: chrome on windows (0ed02fb92ad215f23d85e9b092cb592e)] -> id: addBasket] 
+2023-09-06 14:30:57,774 INFO  [Log] Clicked element is Proxy element for: DefaultElementLocator 'By.xpath: //a[@title='Sepetim']' 
+2023-09-06 14:39:31,692 INFO  [Log] Main Page opened successfully 
+2023-09-06 14:39:33,270 INFO  [Log] Clicked element is [[ChromeDriver: chrome on windows (b61142f6288015924238135a242498e2)] -> id: onetrust-accept-btn-handler] 
+2023-09-06 14:39:33,781 INFO  [Log] Clicked element is [[ChromeDriver: chrome on windows (b61142f6288015924238135a242498e2)] -> xpath: (//*[name()='svg'][@class='icon icon-close'])[2]] 
+2023-09-06 14:39:34,339 INFO  [Log] Sent text is şort to [[ChromeDriver: chrome on windows (b61142f6288015924238135a242498e2)] -> xpath: //input[@placeholder='Ürün, Marka Arayın']] 
+2023-09-06 14:39:34,632 INFO  [Log] Sent text is gömlek to [[ChromeDriver: chrome on windows (b61142f6288015924238135a242498e2)] -> xpath: //input[@placeholder='Ürün, Marka Arayın']] 
+2023-09-06 14:39:34,639 INFO  [Log] Send ENTER 
+2023-09-06 14:39:38,162 INFO  [Log] Clicked element is [[ChromeDriver: chrome on windows (b61142f6288015924238135a242498e2)] -> class name: m-productCard__photo] 
+2023-09-06 14:39:38,399 INFO  [Log] Successfully wrote to the file. 
+2023-09-06 14:39:38,488 INFO  [Log] Clicked element is [[ChromeDriver: chrome on windows (b61142f6288015924238135a242498e2)] -> class name: m-variation__item] 
+2023-09-06 14:39:38,616 INFO  [Log] Clicked element is [[ChromeDriver: chrome on windows (b61142f6288015924238135a242498e2)] -> id: addBasket] 
+2023-09-06 14:39:43,918 INFO  [Log] Clicked element is Proxy element for: DefaultElementLocator 'By.xpath: //a[@title='Sepetim']' 
+2023-09-06 14:40:09,160 INFO  [Log] Main Page opened successfully 
+2023-09-06 14:40:10,642 INFO  [Log] Clicked element is [[ChromeDriver: chrome on windows (564e7ca52e8132c31e75dd88761ebea7)] -> id: onetrust-accept-btn-handler] 
+2023-09-06 14:40:10,782 INFO  [Log] Clicked element is [[ChromeDriver: chrome on windows (564e7ca52e8132c31e75dd88761ebea7)] -> xpath: (//*[name()='svg'][@class='icon icon-close'])[2]] 
+2023-09-06 14:40:11,257 INFO  [Log] Sent text is şort to [[ChromeDriver: chrome on windows (564e7ca52e8132c31e75dd88761ebea7)] -> xpath: //input[@placeholder='Ürün, Marka Arayın']] 
+2023-09-06 14:40:11,539 INFO  [Log] Sent text is gömlek to [[ChromeDriver: chrome on windows (564e7ca52e8132c31e75dd88761ebea7)] -> xpath: //input[@placeholder='Ürün, Marka Arayın']] 
+2023-09-06 14:40:11,545 INFO  [Log] Send ENTER 
+2023-09-06 14:40:15,571 INFO  [Log] Clicked element is [[ChromeDriver: chrome on windows (564e7ca52e8132c31e75dd88761ebea7)] -> class name: m-productCard__photo] 
+2023-09-06 14:40:15,854 INFO  [Log] Successfully wrote to the file. 
+2023-09-06 14:40:16,017 INFO  [Log] Clicked element is [[ChromeDriver: chrome on windows (564e7ca52e8132c31e75dd88761ebea7)] -> class name: m-variation__item] 
+2023-09-06 14:40:16,149 INFO  [Log] Clicked element is [[ChromeDriver: chrome on windows (564e7ca52e8132c31e75dd88761ebea7)] -> id: addBasket] 
+2023-09-06 14:40:27,377 INFO  [Log] Clicked element is Proxy element for: DefaultElementLocator 'By.xpath: //a[@title='Sepetim']' 
+2023-09-06 14:40:45,400 INFO  [Log] Main Page opened successfully 
+2023-09-06 14:40:47,031 INFO  [Log] Clicked element is [[ChromeDriver: chrome on windows (e5c421b13e0d4d2225a3fe823a0dc4c7)] -> id: onetrust-accept-btn-handler] 
+2023-09-06 14:40:47,517 INFO  [Log] Clicked element is [[ChromeDriver: chrome on windows (e5c421b13e0d4d2225a3fe823a0dc4c7)] -> xpath: (//*[name()='svg'][@class='icon icon-close'])[2]] 
+2023-09-06 14:40:48,119 INFO  [Log] Sent text is şort to [[ChromeDriver: chrome on windows (e5c421b13e0d4d2225a3fe823a0dc4c7)] -> xpath: //input[@placeholder='Ürün, Marka Arayın']] 
+2023-09-06 14:40:48,484 INFO  [Log] Sent text is gömlek to [[ChromeDriver: chrome on windows (e5c421b13e0d4d2225a3fe823a0dc4c7)] -> xpath: //input[@placeholder='Ürün, Marka Arayın']] 
+2023-09-06 14:40:48,493 INFO  [Log] Send ENTER 
+2023-09-06 14:40:53,038 INFO  [Log] Clicked element is [[ChromeDriver: chrome on windows (e5c421b13e0d4d2225a3fe823a0dc4c7)] -> class name: m-productCard__photo] 
+2023-09-06 14:40:53,292 INFO  [Log] Successfully wrote to the file. 
+2023-09-06 14:40:53,371 INFO  [Log] Clicked element is [[ChromeDriver: chrome on windows (e5c421b13e0d4d2225a3fe823a0dc4c7)] -> class name: m-variation__item] 
+2023-09-06 14:41:02,889 INFO  [Log] Clicked element is [[ChromeDriver: chrome on windows (e5c421b13e0d4d2225a3fe823a0dc4c7)] -> id: addBasket] 
+2023-09-06 14:41:58,503 INFO  [Log] Main Page opened successfully 
+2023-09-06 14:41:59,999 INFO  [Log] Clicked element is [[ChromeDriver: chrome on windows (e349a717ebead8a1d208a2051b58054b)] -> id: onetrust-accept-btn-handler] 
+2023-09-06 14:42:00,455 INFO  [Log] Clicked element is [[ChromeDriver: chrome on windows (e349a717ebead8a1d208a2051b58054b)] -> xpath: (//*[name()='svg'][@class='icon icon-close'])[2]] 
+2023-09-06 14:42:01,101 INFO  [Log] Sent text is şort to [[ChromeDriver: chrome on windows (e349a717ebead8a1d208a2051b58054b)] -> xpath: //input[@placeholder='Ürün, Marka Arayın']] 
+2023-09-06 14:42:01,406 INFO  [Log] Sent text is gömlek to [[ChromeDriver: chrome on windows (e349a717ebead8a1d208a2051b58054b)] -> xpath: //input[@placeholder='Ürün, Marka Arayın']] 
+2023-09-06 14:42:01,416 INFO  [Log] Send ENTER 
+2023-09-06 14:42:06,001 INFO  [Log] Clicked element is [[ChromeDriver: chrome on windows (e349a717ebead8a1d208a2051b58054b)] -> class name: m-productCard__photo] 
+2023-09-06 14:43:43,813 INFO  [Log] Main Page opened successfully 
+2023-09-06 14:43:45,320 INFO  [Log] Clicked element is [[ChromeDriver: chrome on windows (e15315312c1017abae3bf464ef950a98)] -> id: onetrust-accept-btn-handler] 
+2023-09-06 14:43:45,467 INFO  [Log] Clicked element is [[ChromeDriver: chrome on windows (e15315312c1017abae3bf464ef950a98)] -> xpath: (//*[name()='svg'][@class='icon icon-close'])[2]] 
+2023-09-06 14:43:45,976 INFO  [Log] Sent text is şort to [[ChromeDriver: chrome on windows (e15315312c1017abae3bf464ef950a98)] -> xpath: //input[@placeholder='Ürün, Marka Arayın']] 
+2023-09-06 14:43:46,307 INFO  [Log] Sent text is gömlek to [[ChromeDriver: chrome on windows (e15315312c1017abae3bf464ef950a98)] -> xpath: //input[@placeholder='Ürün, Marka Arayın']] 
+2023-09-06 14:43:46,320 INFO  [Log] Send ENTER 
+2023-09-06 14:43:49,983 INFO  [Log] Clicked element is [[ChromeDriver: chrome on windows (e15315312c1017abae3bf464ef950a98)] -> class name: m-productCard__photo] 
+2023-09-06 14:43:50,238 INFO  [Log] Successfully wrote to the file. 
+2023-09-06 14:43:50,361 INFO  [Log] Clicked element is [[ChromeDriver: chrome on windows (e15315312c1017abae3bf464ef950a98)] -> class name: m-variation__item] 
+2023-09-06 14:43:50,548 INFO  [Log] Clicked element is [[ChromeDriver: chrome on windows (e15315312c1017abae3bf464ef950a98)] -> id: addBasket] 
+2023-09-06 14:44:01,752 INFO  [Log] Clicked element is Proxy element for: DefaultElementLocator 'By.xpath: //a[@title='Sepetim']' 
+2023-09-06 14:44:46,184 INFO  [Log] Main Page opened successfully 
+2023-09-06 14:44:48,059 INFO  [Log] Clicked element is [[ChromeDriver: chrome on windows (50cc9cc5a0967780421c0c985954d1c2)] -> id: onetrust-accept-btn-handler] 
+2023-09-06 14:44:48,316 INFO  [Log] Clicked element is [[ChromeDriver: chrome on windows (50cc9cc5a0967780421c0c985954d1c2)] -> xpath: (//*[name()='svg'][@class='icon icon-close'])[2]] 
+2023-09-06 14:44:49,436 INFO  [Log] Sent text is şort to [[ChromeDriver: chrome on windows (50cc9cc5a0967780421c0c985954d1c2)] -> xpath: //input[@placeholder='Ürün, Marka Arayın']] 
+2023-09-06 14:44:49,801 INFO  [Log] Sent text is gömlek to [[ChromeDriver: chrome on windows (50cc9cc5a0967780421c0c985954d1c2)] -> xpath: //input[@placeholder='Ürün, Marka Arayın']] 
+2023-09-06 14:44:49,807 INFO  [Log] Send ENTER 
+2023-09-06 14:44:56,206 INFO  [Log] Clicked element is [[ChromeDriver: chrome on windows (50cc9cc5a0967780421c0c985954d1c2)] -> class name: m-productCard__photo] 
+2023-09-06 14:44:56,535 INFO  [Log] Successfully wrote to the file. 
+2023-09-06 14:44:56,731 INFO  [Log] Clicked element is [[ChromeDriver: chrome on windows (50cc9cc5a0967780421c0c985954d1c2)] -> class name: m-variation__item] 
+2023-09-06 14:44:56,835 INFO  [Log] Clicked element is [[ChromeDriver: chrome on windows (50cc9cc5a0967780421c0c985954d1c2)] -> xpath: //*[@id="addBasket"]] 
+2023-09-06 14:45:07,138 INFO  [Log] Clicked element is [[ChromeDriver: chrome on windows (50cc9cc5a0967780421c0c985954d1c2)] -> xpath: //a[@title='Sepetim']] 
+2023-09-06 14:46:18,374 INFO  [Log] Main Page opened successfully 
+2023-09-06 14:46:19,836 INFO  [Log] Clicked element is [[ChromeDriver: chrome on windows (6785b30e92579de881993e390dfcfa05)] -> id: onetrust-accept-btn-handler] 
+2023-09-06 14:46:20,002 INFO  [Log] Clicked element is [[ChromeDriver: chrome on windows (6785b30e92579de881993e390dfcfa05)] -> xpath: (//*[name()='svg'][@class='icon icon-close'])[2]] 
+2023-09-06 14:46:20,579 INFO  [Log] Sent text is şort to [[ChromeDriver: chrome on windows (6785b30e92579de881993e390dfcfa05)] -> xpath: //input[@placeholder='Ürün, Marka Arayın']] 
+2023-09-06 14:46:20,874 INFO  [Log] Sent text is gömlek to [[ChromeDriver: chrome on windows (6785b30e92579de881993e390dfcfa05)] -> xpath: //input[@placeholder='Ürün, Marka Arayın']] 
+2023-09-06 14:46:20,882 INFO  [Log] Send ENTER 
+2023-09-06 14:46:26,010 INFO  [Log] Clicked element is [[ChromeDriver: chrome on windows (6785b30e92579de881993e390dfcfa05)] -> class name: m-productCard__photo] 
+2023-09-06 14:46:26,299 INFO  [Log] Successfully wrote to the file. 
+2023-09-06 14:46:26,395 INFO  [Log] Clicked element is [[ChromeDriver: chrome on windows (6785b30e92579de881993e390dfcfa05)] -> class name: m-variation__item] 
+2023-09-06 14:46:26,575 INFO  [Log] element is [[ChromeDriver: chrome on windows (6785b30e92579de881993e390dfcfa05)] -> xpath: //*[@id="addBasket"]] 
+2023-09-06 14:46:26,671 INFO  [Log] Clicked element is [[ChromeDriver: chrome on windows (6785b30e92579de881993e390dfcfa05)] -> xpath: //*[@id="addBasket"]] 
+2023-09-06 14:47:27,050 INFO  [Log] Main Page opened successfully 
+2023-09-06 14:47:47,745 INFO  [Log] Main Page opened successfully 
+2023-09-06 14:47:49,292 INFO  [Log] Clicked element is [[ChromeDriver: chrome on windows (8fb7e869b17dbfbbf35728527f73b00a)] -> id: onetrust-accept-btn-handler] 
+2023-09-06 14:47:49,897 INFO  [Log] Clicked element is [[ChromeDriver: chrome on windows (8fb7e869b17dbfbbf35728527f73b00a)] -> xpath: (//*[name()='svg'][@class='icon icon-close'])[2]] 
+2023-09-06 14:47:50,423 INFO  [Log] Sent text is şort to [[ChromeDriver: chrome on windows (8fb7e869b17dbfbbf35728527f73b00a)] -> xpath: //input[@placeholder='Ürün, Marka Arayın']] 
+2023-09-06 14:47:50,719 INFO  [Log] Sent text is gömlek to [[ChromeDriver: chrome on windows (8fb7e869b17dbfbbf35728527f73b00a)] -> xpath: //input[@placeholder='Ürün, Marka Arayın']] 
+2023-09-06 14:47:50,727 INFO  [Log] Send ENTER 
+2023-09-06 14:47:56,183 INFO  [Log] Clicked element is [[ChromeDriver: chrome on windows (8fb7e869b17dbfbbf35728527f73b00a)] -> class name: m-productCard__photo] 
+2023-09-06 14:47:56,519 INFO  [Log] Successfully wrote to the file. 
+2023-09-06 14:47:56,607 INFO  [Log] Clicked element is [[ChromeDriver: chrome on windows (8fb7e869b17dbfbbf35728527f73b00a)] -> class name: m-variation__item] 
+2023-09-06 14:47:56,789 INFO  [Log] element is [[ChromeDriver: chrome on windows (8fb7e869b17dbfbbf35728527f73b00a)] -> xpath: //*[@id="addBasket"]] 
+2023-09-06 14:47:56,887 INFO  [Log] Clicked element is [[ChromeDriver: chrome on windows (8fb7e869b17dbfbbf35728527f73b00a)] -> xpath: //*[@id="addBasket"]] 
+2023-09-06 14:48:13,373 INFO  [Log] Clicked element is Proxy element for: DefaultElementLocator 'By.xpath: //a[@title='Sepetim']' 
+2023-09-06 14:48:39,937 INFO  [Log] Main Page opened successfully 
+2023-09-06 14:48:41,539 INFO  [Log] Clicked element is [[ChromeDriver: chrome on windows (64ba7619972db89a435c3e947b106fee)] -> id: onetrust-accept-btn-handler] 
+2023-09-06 14:48:41,985 INFO  [Log] Clicked element is [[ChromeDriver: chrome on windows (64ba7619972db89a435c3e947b106fee)] -> xpath: (//*[name()='svg'][@class='icon icon-close'])[2]] 
+2023-09-06 14:48:42,556 INFO  [Log] Sent text is şort to [[ChromeDriver: chrome on windows (64ba7619972db89a435c3e947b106fee)] -> xpath: //input[@placeholder='Ürün, Marka Arayın']] 
+2023-09-06 14:48:42,855 INFO  [Log] Sent text is gömlek to [[ChromeDriver: chrome on windows (64ba7619972db89a435c3e947b106fee)] -> xpath: //input[@placeholder='Ürün, Marka Arayın']] 
+2023-09-06 14:48:42,864 INFO  [Log] Send ENTER 
+2023-09-06 14:49:19,018 INFO  [Log] Clicked element is [[ChromeDriver: chrome on windows (64ba7619972db89a435c3e947b106fee)] -> class name: m-productCard__photo] 
+2023-09-06 14:49:19,429 INFO  [Log] Successfully wrote to the file. 
+2023-09-06 14:59:35,128 INFO  [Log] Main Page opened successfully 
+2023-09-06 14:59:35,492 INFO  [Log] Clicked element is [[ChromeDriver: chrome on windows (c6397b6fecca1be08fb068cf6db2a1b0)] -> id: onetrust-accept-btn-handler] 
+2023-09-06 14:59:36,737 INFO  [Log] Clicked element is [[ChromeDriver: chrome on windows (c6397b6fecca1be08fb068cf6db2a1b0)] -> xpath: (//*[name()='svg'][@class='icon icon-close'])[2]] 
+2023-09-06 14:59:37,241 INFO  [Log] Sent text is şort to [[ChromeDriver: chrome on windows (c6397b6fecca1be08fb068cf6db2a1b0)] -> xpath: //input[@placeholder='Ürün, Marka Arayın']] 
+2023-09-06 14:59:37,550 INFO  [Log] Sent text is gömlek to [[ChromeDriver: chrome on windows (c6397b6fecca1be08fb068cf6db2a1b0)] -> xpath: //input[@placeholder='Ürün, Marka Arayın']] 
+2023-09-06 14:59:37,558 INFO  [Log] Send ENTER 
+2023-09-06 14:59:40,991 INFO  [Log] Clicked element is [[ChromeDriver: chrome on windows (c6397b6fecca1be08fb068cf6db2a1b0)] -> class name: m-productCard__photo] 
+2023-09-06 14:59:46,217 INFO  [Log] Successfully wrote to the file. 
+2023-09-06 14:59:46,291 INFO  [Log] Clicked element is [[ChromeDriver: chrome on windows (c6397b6fecca1be08fb068cf6db2a1b0)] -> class name: m-variation__item] 
+2023-09-06 14:59:46,458 INFO  [Log] element is [[ChromeDriver: chrome on windows (c6397b6fecca1be08fb068cf6db2a1b0)] -> xpath: //*[@id="addBasket"]] 
+2023-09-06 14:59:46,571 INFO  [Log] Clicked element is [[ChromeDriver: chrome on windows (c6397b6fecca1be08fb068cf6db2a1b0)] -> xpath: //*[@id="addBasket"]] 
+2023-09-06 15:00:01,048 INFO  [Log] Clicked element is Proxy element for: DefaultElementLocator 'By.xpath: //a[@title='Sepetim']' 
+2023-09-06 15:01:02,729 INFO  [Log] Main Page opened successfully 
+2023-09-06 15:01:03,098 INFO  [Log] Clicked element is [[ChromeDriver: chrome on windows (e1f7cea7478727c3cfc16c8376749837)] -> id: onetrust-accept-btn-handler] 
+2023-09-06 15:01:04,225 INFO  [Log] Clicked element is [[ChromeDriver: chrome on windows (e1f7cea7478727c3cfc16c8376749837)] -> xpath: (//*[name()='svg'][@class='icon icon-close'])[2]] 
+2023-09-06 15:01:04,803 INFO  [Log] Sent text is şort to [[ChromeDriver: chrome on windows (e1f7cea7478727c3cfc16c8376749837)] -> xpath: //input[@placeholder='Ürün, Marka Arayın']] 
+2023-09-06 15:01:05,200 INFO  [Log] Sent text is gömlek to [[ChromeDriver: chrome on windows (e1f7cea7478727c3cfc16c8376749837)] -> xpath: //input[@placeholder='Ürün, Marka Arayın']] 
+2023-09-06 15:01:05,207 INFO  [Log] Send ENTER 
+2023-09-06 15:01:08,491 INFO  [Log] Clicked element is [[ChromeDriver: chrome on windows (e1f7cea7478727c3cfc16c8376749837)] -> class name: m-productCard__photo] 
+2023-09-06 15:01:13,644 INFO  [Log] Successfully wrote to the file. 
+2023-09-06 15:01:13,799 INFO  [Log] element is [[ChromeDriver: chrome on windows (e1f7cea7478727c3cfc16c8376749837)] -> class name: m-variation__item] 
+2023-09-06 15:01:13,891 INFO  [Log] Clicked element is [[ChromeDriver: chrome on windows (e1f7cea7478727c3cfc16c8376749837)] -> class name: m-variation__item] 
+2023-09-06 15:01:14,057 INFO  [Log] element is [[ChromeDriver: chrome on windows (e1f7cea7478727c3cfc16c8376749837)] -> xpath: //*[@id="addBasket"]] 
+2023-09-06 15:01:14,140 INFO  [Log] Clicked element is [[ChromeDriver: chrome on windows (e1f7cea7478727c3cfc16c8376749837)] -> xpath: //*[@id="addBasket"]] 
+2023-09-06 15:01:28,679 INFO  [Log] Clicked element is Proxy element for: DefaultElementLocator 'By.xpath: //a[@title='Sepetim']' 
+2023-09-06 15:32:33,157 INFO  [Log] Main Page opened successfully 
+2023-09-06 15:32:34,919 INFO  [Log] Clicked element is [[ChromeDriver: chrome on windows (2c2b27207c753dcd2a06f7e7c9422d3a)] -> id: onetrust-accept-btn-handler] 
+2023-09-06 15:32:35,478 INFO  [Log] Clicked element is [[ChromeDriver: chrome on windows (2c2b27207c753dcd2a06f7e7c9422d3a)] -> xpath: (//*[name()='svg'][@class='icon icon-close'])[2]] 
+2023-09-06 15:32:36,005 INFO  [Log] Sent text is şort to [[ChromeDriver: chrome on windows (2c2b27207c753dcd2a06f7e7c9422d3a)] -> xpath: //input[@placeholder='Ürün, Marka Arayın']] 
+2023-09-06 15:32:36,318 INFO  [Log] Sent text is gömlek to [[ChromeDriver: chrome on windows (2c2b27207c753dcd2a06f7e7c9422d3a)] -> xpath: //input[@placeholder='Ürün, Marka Arayın']] 
+2023-09-06 15:32:36,327 INFO  [Log] Send ENTER 
+2023-09-06 15:32:39,695 INFO  [Log] Clicked element is [[ChromeDriver: chrome on windows (2c2b27207c753dcd2a06f7e7c9422d3a)] -> class name: m-productCard__photo] 
+2023-09-06 15:32:44,845 INFO  [Log] Successfully wrote to the file. 
+2023-09-06 15:32:45,001 INFO  [Log] element is [[ChromeDriver: chrome on windows (2c2b27207c753dcd2a06f7e7c9422d3a)] -> class name: m-variation__item] 
+2023-09-06 15:32:45,084 INFO  [Log] Clicked element is [[ChromeDriver: chrome on windows (2c2b27207c753dcd2a06f7e7c9422d3a)] -> class name: m-variation__item] 
+2023-09-06 15:32:45,264 INFO  [Log] element is [[ChromeDriver: chrome on windows (2c2b27207c753dcd2a06f7e7c9422d3a)] -> xpath: //*[@id="addBasket"]] 
+2023-09-06 15:32:45,386 INFO  [Log] Clicked element is [[ChromeDriver: chrome on windows (2c2b27207c753dcd2a06f7e7c9422d3a)] -> xpath: //*[@id="addBasket"]] 
+2023-09-06 15:33:00,445 INFO  [Log] Clicked element is Proxy element for: DefaultElementLocator 'By.xpath: //a[@title='Sepetim']' 
+2023-09-06 15:36:46,753 INFO  [Log] Main Page opened successfully 
+2023-09-06 15:36:47,085 INFO  [Log] Clicked element is [[ChromeDriver: chrome on windows (08e55332adba340e71ee4834dafe9f35)] -> id: onetrust-accept-btn-handler] 
+2023-09-06 15:36:48,353 INFO  [Log] Clicked element is [[ChromeDriver: chrome on windows (08e55332adba340e71ee4834dafe9f35)] -> xpath: (//*[name()='svg'][@class='icon icon-close'])[2]] 
+2023-09-06 15:36:48,970 INFO  [Log] Sent text is şort to [[ChromeDriver: chrome on windows (08e55332adba340e71ee4834dafe9f35)] -> xpath: //input[@placeholder='Ürün, Marka Arayın']] 
+2023-09-06 15:36:49,320 INFO  [Log] Sent text is gömlek to [[ChromeDriver: chrome on windows (08e55332adba340e71ee4834dafe9f35)] -> xpath: //input[@placeholder='Ürün, Marka Arayın']] 
+2023-09-06 15:36:49,328 INFO  [Log] Send ENTER 
+2023-09-06 15:36:53,662 INFO  [Log] Clicked element is [[ChromeDriver: chrome on windows (08e55332adba340e71ee4834dafe9f35)] -> class name: m-productCard__photo] 
+2023-09-06 15:36:59,887 INFO  [Log] Successfully wrote to the file. 
+2023-09-06 15:37:00,041 INFO  [Log] element is [[ChromeDriver: chrome on windows (08e55332adba340e71ee4834dafe9f35)] -> class name: m-variation__item] 
+2023-09-06 15:37:00,115 INFO  [Log] Clicked element is [[ChromeDriver: chrome on windows (08e55332adba340e71ee4834dafe9f35)] -> class name: m-variation__item] 
+2023-09-06 15:37:00,337 INFO  [Log] element is [[ChromeDriver: chrome on windows (08e55332adba340e71ee4834dafe9f35)] -> xpath: //*[@id="addBasket"]] 
+2023-09-06 15:37:00,426 INFO  [Log] Clicked element is [[ChromeDriver: chrome on windows (08e55332adba340e71ee4834dafe9f35)] -> xpath: //*[@id="addBasket"]] 
+2023-09-06 15:37:16,005 INFO  [Log] Clicked element is Proxy element for: DefaultElementLocator 'By.xpath: //a[@title='Sepetim']' 
+2023-09-06 15:39:51,640 INFO  [Log] Main Page opened successfully 
+2023-09-06 15:39:53,243 INFO  [Log] Clicked element is [[ChromeDriver: chrome on windows (60d2f5b41ab995448f650b2a5097ade3)] -> id: onetrust-accept-btn-handler] 
+2023-09-06 15:39:53,670 INFO  [Log] Clicked element is [[ChromeDriver: chrome on windows (60d2f5b41ab995448f650b2a5097ade3)] -> xpath: (//*[name()='svg'][@class='icon icon-close'])[2]] 
+2023-09-06 15:39:54,165 INFO  [Log] Sent text is şort to [[ChromeDriver: chrome on windows (60d2f5b41ab995448f650b2a5097ade3)] -> xpath: //input[@placeholder='Ürün, Marka Arayın']] 
+2023-09-06 15:39:54,453 INFO  [Log] Sent text is gömlek to [[ChromeDriver: chrome on windows (60d2f5b41ab995448f650b2a5097ade3)] -> xpath: //input[@placeholder='Ürün, Marka Arayın']] 
+2023-09-06 15:39:54,462 INFO  [Log] Send ENTER 
+2023-09-06 15:40:00,881 INFO  [Log] Clicked element is [[ChromeDriver: chrome on windows (60d2f5b41ab995448f650b2a5097ade3)] -> class name: m-productCard__photo] 
+2023-09-06 15:40:06,976 INFO  [Log] Successfully wrote to the file. 
+2023-09-06 15:40:07,120 INFO  [Log] element is [[ChromeDriver: chrome on windows (60d2f5b41ab995448f650b2a5097ade3)] -> class name: m-variation__item] 
+2023-09-06 15:40:07,186 INFO  [Log] Clicked element is [[ChromeDriver: chrome on windows (60d2f5b41ab995448f650b2a5097ade3)] -> class name: m-variation__item] 
+2023-09-06 15:40:07,370 INFO  [Log] element is [[ChromeDriver: chrome on windows (60d2f5b41ab995448f650b2a5097ade3)] -> xpath: //*[@id="addBasket"]] 
+2023-09-06 15:40:07,472 INFO  [Log] Clicked element is [[ChromeDriver: chrome on windows (60d2f5b41ab995448f650b2a5097ade3)] -> xpath: //*[@id="addBasket"]] 
+2023-09-06 15:40:22,693 INFO  [Log] Clicked element is Proxy element for: DefaultElementLocator 'By.xpath: //a[@title='Sepetim']' 
+2023-09-06 15:40:53,323 INFO  [Log] Main Page opened successfully 
+2023-09-06 15:40:54,719 INFO  [Log] Clicked element is [[ChromeDriver: chrome on windows (725f33ce61805da62cf536ad7c4ada0b)] -> id: onetrust-accept-btn-handler] 
+2023-09-06 15:40:54,845 INFO  [Log] Clicked element is [[ChromeDriver: chrome on windows (725f33ce61805da62cf536ad7c4ada0b)] -> xpath: (//*[name()='svg'][@class='icon icon-close'])[2]] 
+2023-09-06 15:40:55,519 INFO  [Log] Sent text is şort to [[ChromeDriver: chrome on windows (725f33ce61805da62cf536ad7c4ada0b)] -> xpath: //input[@placeholder='Ürün, Marka Arayın']] 
+2023-09-06 15:40:56,005 INFO  [Log] Sent text is gömlek to [[ChromeDriver: chrome on windows (725f33ce61805da62cf536ad7c4ada0b)] -> xpath: //input[@placeholder='Ürün, Marka Arayın']] 
+2023-09-06 15:40:56,013 INFO  [Log] Send ENTER 
+2023-09-06 15:40:59,878 INFO  [Log] Clicked element is [[ChromeDriver: chrome on windows (725f33ce61805da62cf536ad7c4ada0b)] -> class name: m-productCard__photo] 
+2023-09-06 15:41:04,990 INFO  [Log] Successfully wrote to the file. 
+2023-09-06 15:41:05,133 INFO  [Log] element is [[ChromeDriver: chrome on windows (725f33ce61805da62cf536ad7c4ada0b)] -> class name: m-variation__item] 
+2023-09-06 15:41:05,193 INFO  [Log] Clicked element is [[ChromeDriver: chrome on windows (725f33ce61805da62cf536ad7c4ada0b)] -> class name: m-variation__item] 
+2023-09-06 15:41:05,362 INFO  [Log] element is [[ChromeDriver: chrome on windows (725f33ce61805da62cf536ad7c4ada0b)] -> xpath: //*[@id="addBasket"]] 
+2023-09-06 15:41:05,450 INFO  [Log] Clicked element is [[ChromeDriver: chrome on windows (725f33ce61805da62cf536ad7c4ada0b)] -> xpath: //*[@id="addBasket"]] 
+2023-09-06 15:41:20,704 INFO  [Log] Clicked element is Proxy element for: DefaultElementLocator 'By.xpath: //a[@title='Sepetim']' 
+2023-09-06 15:43:34,763 INFO  [Log] Main Page opened successfully 
+2023-09-06 15:43:36,698 INFO  [Log] Clicked element is [[ChromeDriver: chrome on windows (49111230bcfb73a0fcc901d594c11c6b)] -> id: onetrust-accept-btn-handler] 
+2023-09-06 15:43:37,114 INFO  [Log] Clicked element is [[ChromeDriver: chrome on windows (49111230bcfb73a0fcc901d594c11c6b)] -> xpath: (//*[name()='svg'][@class='icon icon-close'])[2]] 
+2023-09-06 15:43:37,749 INFO  [Log] Sent text is şort to [[ChromeDriver: chrome on windows (49111230bcfb73a0fcc901d594c11c6b)] -> xpath: //input[@placeholder='Ürün, Marka Arayın']] 
+2023-09-06 15:43:38,020 INFO  [Log] Sent text is gömlek to [[ChromeDriver: chrome on windows (49111230bcfb73a0fcc901d594c11c6b)] -> xpath: //input[@placeholder='Ürün, Marka Arayın']] 
+2023-09-06 15:43:38,026 INFO  [Log] Send ENTER 
+2023-09-06 15:44:32,344 INFO  [Log] Main Page opened successfully 
+2023-09-06 15:44:33,743 INFO  [Log] Clicked element is [[ChromeDriver: chrome on windows (a26fd4c17e722e07bb655746eccde995)] -> id: onetrust-accept-btn-handler] 
+2023-09-06 15:44:33,857 INFO  [Log] Clicked element is [[ChromeDriver: chrome on windows (a26fd4c17e722e07bb655746eccde995)] -> xpath: (//*[name()='svg'][@class='icon icon-close'])[2]] 
+2023-09-06 15:44:34,392 INFO  [Log] Sent text is şort to [[ChromeDriver: chrome on windows (a26fd4c17e722e07bb655746eccde995)] -> xpath: //input[@placeholder='Ürün, Marka Arayın']] 
+2023-09-06 15:44:34,733 INFO  [Log] Sent text is gömlek to [[ChromeDriver: chrome on windows (a26fd4c17e722e07bb655746eccde995)] -> xpath: //input[@placeholder='Ürün, Marka Arayın']] 
+2023-09-06 15:44:34,745 INFO  [Log] Send ENTER 
+2023-09-06 15:44:42,531 INFO  [Log] Clicked element is [[ChromeDriver: chrome on windows (a26fd4c17e722e07bb655746eccde995)] -> class name: m-productCard__photo] 
+2023-09-06 15:44:42,766 INFO  [Log] Successfully wrote to the file. 
+2023-09-06 15:44:42,969 INFO  [Log] element is [[ChromeDriver: chrome on windows (a26fd4c17e722e07bb655746eccde995)] -> class name: m-variation__item] 
+2023-09-06 15:44:43,031 INFO  [Log] Clicked element is [[ChromeDriver: chrome on windows (a26fd4c17e722e07bb655746eccde995)] -> class name: m-variation__item] 
+2023-09-06 15:44:43,217 INFO  [Log] element is [[ChromeDriver: chrome on windows (a26fd4c17e722e07bb655746eccde995)] -> xpath: //*[@id="addBasket"]] 
+2023-09-06 15:44:43,305 INFO  [Log] Clicked element is [[ChromeDriver: chrome on windows (a26fd4c17e722e07bb655746eccde995)] -> xpath: //*[@id="addBasket"]] 
+2023-09-06 15:44:57,451 INFO  [Log] Clicked element is Proxy element for: DefaultElementLocator 'By.xpath: //a[@title='Sepetim']' 
+2023-09-06 15:46:18,413 INFO  [Log] Main Page opened successfully 
+2023-09-06 15:46:19,916 INFO  [Log] Clicked element is [[ChromeDriver: chrome on windows (72ac29f1244a06d20036a5d4c06298e8)] -> id: onetrust-accept-btn-handler] 
+2023-09-06 15:46:20,155 INFO  [Log] Clicked element is [[ChromeDriver: chrome on windows (72ac29f1244a06d20036a5d4c06298e8)] -> xpath: (//*[name()='svg'][@class='icon icon-close'])[2]] 
+2023-09-06 15:46:20,661 INFO  [Log] Sent text is şort to [[ChromeDriver: chrome on windows (72ac29f1244a06d20036a5d4c06298e8)] -> xpath: //input[@placeholder='Ürün, Marka Arayın']] 
+2023-09-06 15:46:20,954 INFO  [Log] Sent text is gömlek to [[ChromeDriver: chrome on windows (72ac29f1244a06d20036a5d4c06298e8)] -> xpath: //input[@placeholder='Ürün, Marka Arayın']] 
+2023-09-06 15:46:20,959 INFO  [Log] Send ENTER 
+2023-09-06 15:46:26,788 INFO  [Log] Clicked element is [[ChromeDriver: chrome on windows (72ac29f1244a06d20036a5d4c06298e8)] -> class name: m-productCard__photo] 
+2023-09-06 15:46:31,922 INFO  [Log] Successfully wrote to the file. 
+2023-09-06 15:46:32,070 INFO  [Log] element is [[ChromeDriver: chrome on windows (72ac29f1244a06d20036a5d4c06298e8)] -> class name: m-variation__item] 
+2023-09-06 15:46:32,123 INFO  [Log] Clicked element is [[ChromeDriver: chrome on windows (72ac29f1244a06d20036a5d4c06298e8)] -> class name: m-variation__item] 
+2023-09-06 15:46:32,290 INFO  [Log] element is [[ChromeDriver: chrome on windows (72ac29f1244a06d20036a5d4c06298e8)] -> xpath: //*[@id="addBasket"]] 
+2023-09-06 15:46:32,402 INFO  [Log] Clicked element is [[ChromeDriver: chrome on windows (72ac29f1244a06d20036a5d4c06298e8)] -> xpath: //*[@id="addBasket"]] 
+2023-09-06 15:46:47,121 INFO  [Log] Clicked element is Proxy element for: DefaultElementLocator 'By.xpath: //a[@title='Sepetim']' 
+2023-09-06 15:47:31,136 INFO  [Log] Main Page opened successfully 
+2023-09-06 15:47:31,394 INFO  [Log] Clicked element is [[ChromeDriver: chrome on windows (2a76995e0f419cab7a6b2f037166f32a)] -> id: onetrust-accept-btn-handler] 
+2023-09-06 15:47:32,836 INFO  [Log] Clicked element is [[ChromeDriver: chrome on windows (2a76995e0f419cab7a6b2f037166f32a)] -> xpath: (//*[name()='svg'][@class='icon icon-close'])[2]] 
+2023-09-06 15:47:33,805 INFO  [Log] Sent text is şort to [[ChromeDriver: chrome on windows (2a76995e0f419cab7a6b2f037166f32a)] -> xpath: //input[@placeholder='Ürün, Marka Arayın']] 
+2023-09-06 15:47:34,400 INFO  [Log] Sent text is gömlek to [[ChromeDriver: chrome on windows (2a76995e0f419cab7a6b2f037166f32a)] -> xpath: //input[@placeholder='Ürün, Marka Arayın']] 
+2023-09-06 15:47:34,423 INFO  [Log] Send ENTER 
+2023-09-06 15:47:38,732 INFO  [Log] Clicked element is [[ChromeDriver: chrome on windows (2a76995e0f419cab7a6b2f037166f32a)] -> class name: m-productCard__photo] 
+2023-09-06 15:47:39,563 INFO  [Log] Successfully wrote to the file. 
+2023-09-06 15:47:39,726 INFO  [Log] element is [[ChromeDriver: chrome on windows (2a76995e0f419cab7a6b2f037166f32a)] -> class name: m-variation__item] 
+2023-09-06 15:47:39,827 INFO  [Log] Clicked element is [[ChromeDriver: chrome on windows (2a76995e0f419cab7a6b2f037166f32a)] -> class name: m-variation__item] 
+2023-09-06 15:47:40,000 INFO  [Log] element is [[ChromeDriver: chrome on windows (2a76995e0f419cab7a6b2f037166f32a)] -> xpath: //*[@id="addBasket"]] 
+2023-09-06 15:47:40,086 INFO  [Log] Clicked element is [[ChromeDriver: chrome on windows (2a76995e0f419cab7a6b2f037166f32a)] -> xpath: //*[@id="addBasket"]] 
+2023-09-06 15:47:53,241 INFO  [Log] Clicked element is [[ChromeDriver: chrome on windows (2a76995e0f419cab7a6b2f037166f32a)] -> xpath: //a[@title='Sepetim']] 
+2023-09-06 15:51:54,888 INFO  [Log] Main Page opened successfully 
+2023-09-06 15:51:56,490 INFO  [Log] Clicked element is [[ChromeDriver: chrome on windows (0ab26a3860346b7ab3a13fe16606b690)] -> id: onetrust-accept-btn-handler] 
+2023-09-06 15:51:56,720 INFO  [Log] Clicked element is [[ChromeDriver: chrome on windows (0ab26a3860346b7ab3a13fe16606b690)] -> xpath: (//*[name()='svg'][@class='icon icon-close'])[2]] 
+2023-09-06 15:51:57,332 INFO  [Log] Sent text is şort to [[ChromeDriver: chrome on windows (0ab26a3860346b7ab3a13fe16606b690)] -> xpath: //input[@placeholder='Ürün, Marka Arayın']] 
+2023-09-06 15:51:57,719 INFO  [Log] Sent text is gömlek to [[ChromeDriver: chrome on windows (0ab26a3860346b7ab3a13fe16606b690)] -> xpath: //input[@placeholder='Ürün, Marka Arayın']] 
+2023-09-06 15:51:57,727 INFO  [Log] Send ENTER 
+2023-09-06 15:52:02,387 INFO  [Log] Clicked element is [[ChromeDriver: chrome on windows (0ab26a3860346b7ab3a13fe16606b690)] -> class name: m-productCard__photo] 
+2023-09-06 15:52:03,342 INFO  [Log] Successfully wrote to the file. 
+2023-09-06 15:52:03,498 INFO  [Log] element is [[ChromeDriver: chrome on windows (0ab26a3860346b7ab3a13fe16606b690)] -> class name: m-variation__item] 
+2023-09-06 15:52:03,560 INFO  [Log] Clicked element is [[ChromeDriver: chrome on windows (0ab26a3860346b7ab3a13fe16606b690)] -> class name: m-variation__item] 
+2023-09-06 15:52:03,726 INFO  [Log] element is [[ChromeDriver: chrome on windows (0ab26a3860346b7ab3a13fe16606b690)] -> xpath: //*[@id="addBasket"]] 
+2023-09-06 15:52:03,822 INFO  [Log] Clicked element is [[ChromeDriver: chrome on windows (0ab26a3860346b7ab3a13fe16606b690)] -> xpath: //*[@id="addBasket"]] 
+2023-09-06 15:53:15,597 INFO  [Log] Main Page opened successfully 
+2023-09-06 15:53:17,558 INFO  [Log] Clicked element is [[ChromeDriver: chrome on windows (9086957cbb7843332575a5502149e79e)] -> id: onetrust-accept-btn-handler] 
+2023-09-06 15:53:17,985 INFO  [Log] Clicked element is [[ChromeDriver: chrome on windows (9086957cbb7843332575a5502149e79e)] -> xpath: (//*[name()='svg'][@class='icon icon-close'])[2]] 
+2023-09-06 15:53:18,650 INFO  [Log] Sent text is şort to [[ChromeDriver: chrome on windows (9086957cbb7843332575a5502149e79e)] -> xpath: //input[@placeholder='Ürün, Marka Arayın']] 
+2023-09-06 15:53:18,968 INFO  [Log] Sent text is gömlek to [[ChromeDriver: chrome on windows (9086957cbb7843332575a5502149e79e)] -> xpath: //input[@placeholder='Ürün, Marka Arayın']] 
+2023-09-06 15:53:18,974 INFO  [Log] Send ENTER 
+2023-09-06 15:53:29,753 INFO  [Log] Clicked element is [[ChromeDriver: chrome on windows (9086957cbb7843332575a5502149e79e)] -> class name: m-productCard__photo] 
+2023-09-06 15:53:30,928 INFO  [Log] Successfully wrote to the file. 
+2023-09-06 15:53:31,124 INFO  [Log] element is [[ChromeDriver: chrome on windows (9086957cbb7843332575a5502149e79e)] -> class name: m-variation__item] 
+2023-09-06 15:55:24,939 INFO  [Log] Main Page opened successfully 
+2023-09-06 15:55:26,230 INFO  [Log] Clicked element is [[ChromeDriver: chrome on windows (386b91675bc5d7188bb1046819a9ca5f)] -> id: onetrust-accept-btn-handler] 
+2023-09-06 15:55:26,475 INFO  [Log] Clicked element is [[ChromeDriver: chrome on windows (386b91675bc5d7188bb1046819a9ca5f)] -> xpath: (//*[name()='svg'][@class='icon icon-close'])[2]] 
+2023-09-06 15:55:27,091 INFO  [Log] Sent text is şort to [[ChromeDriver: chrome on windows (386b91675bc5d7188bb1046819a9ca5f)] -> xpath: //input[@placeholder='Ürün, Marka Arayın']] 
+2023-09-06 15:55:27,655 INFO  [Log] Sent text is gömlek to [[ChromeDriver: chrome on windows (386b91675bc5d7188bb1046819a9ca5f)] -> xpath: //input[@placeholder='Ürün, Marka Arayın']] 
+2023-09-06 15:55:27,662 INFO  [Log] Send ENTER 
+2023-09-06 15:55:32,347 INFO  [Log] Clicked element is [[ChromeDriver: chrome on windows (386b91675bc5d7188bb1046819a9ca5f)] -> class name: m-productCard__photo] 
+2023-09-06 15:55:33,540 INFO  [Log] Successfully wrote to the file. 
+2023-09-06 15:55:43,804 INFO  [Log] element is [[ChromeDriver: chrome on windows (386b91675bc5d7188bb1046819a9ca5f)] -> xpath: (//span[@class='m-variation__item -criticalStock'])] 
+2023-09-06 15:55:43,941 INFO  [Log] Clicked element is [[ChromeDriver: chrome on windows (386b91675bc5d7188bb1046819a9ca5f)] -> xpath: (//span[@class='m-variation__item -criticalStock'])] 
+2023-09-06 15:55:44,137 INFO  [Log] element is [[ChromeDriver: chrome on windows (386b91675bc5d7188bb1046819a9ca5f)] -> xpath: //*[@id="addBasket"]] 
+2023-09-06 15:55:44,307 INFO  [Log] Clicked element is [[ChromeDriver: chrome on windows (386b91675bc5d7188bb1046819a9ca5f)] -> xpath: //*[@id="addBasket"]] 
+2023-09-06 15:55:58,763 INFO  [Log] Clicked element is Proxy element for: DefaultElementLocator 'By.xpath: //a[@title='Sepetim']' 
+2023-09-06 15:59:24,298 INFO  [Log] Main Page opened successfully 
+2023-09-06 15:59:25,894 INFO  [Log] Clicked element is [[ChromeDriver: chrome on windows (9e35499703bc0d2eb1b436e2093de048)] -> id: onetrust-accept-btn-handler] 
+2023-09-06 15:59:26,382 INFO  [Log] Clicked element is [[ChromeDriver: chrome on windows (9e35499703bc0d2eb1b436e2093de048)] -> xpath: (//*[name()='svg'][@class='icon icon-close'])[2]] 
+2023-09-06 15:59:27,072 INFO  [Log] Sent text is şort to [[ChromeDriver: chrome on windows (9e35499703bc0d2eb1b436e2093de048)] -> xpath: //input[@placeholder='Ürün, Marka Arayın']] 
+2023-09-06 15:59:27,356 INFO  [Log] Sent text is gömlek to [[ChromeDriver: chrome on windows (9e35499703bc0d2eb1b436e2093de048)] -> xpath: //input[@placeholder='Ürün, Marka Arayın']] 
+2023-09-06 15:59:27,363 INFO  [Log] Send ENTER 
+2023-09-06 15:59:30,842 INFO  [Log] Clicked element is [[ChromeDriver: chrome on windows (9e35499703bc0d2eb1b436e2093de048)] -> class name: m-productCard__photo] 
+2023-09-06 15:59:31,174 INFO  [Log] Successfully wrote to the file. 
+2023-09-06 15:59:36,392 INFO  [Log] element is [[ChromeDriver: chrome on windows (9e35499703bc0d2eb1b436e2093de048)] -> xpath: (//span[@class='m-variation__item'])] 
+2023-09-06 15:59:36,459 INFO  [Log] Clicked element is [[ChromeDriver: chrome on windows (9e35499703bc0d2eb1b436e2093de048)] -> xpath: (//span[@class='m-variation__item'])] 
+2023-09-06 15:59:36,632 INFO  [Log] element is [[ChromeDriver: chrome on windows (9e35499703bc0d2eb1b436e2093de048)] -> xpath: //*[@id="addBasket"]] 
+2023-09-06 15:59:36,722 INFO  [Log] Clicked element is [[ChromeDriver: chrome on windows (9e35499703bc0d2eb1b436e2093de048)] -> xpath: //*[@id="addBasket"]] 
+2023-09-06 15:59:51,075 INFO  [Log] Clicked element is Proxy element for: DefaultElementLocator 'By.xpath: //a[@title='Sepetim']' 
+2023-09-06 16:01:25,538 INFO  [Log] Main Page opened successfully 
+2023-09-06 16:01:26,036 INFO  [Log] Clicked element is [[ChromeDriver: chrome on windows (0b28d93017695f7e9de28da363fc4b87)] -> id: onetrust-accept-btn-handler] 
+2023-09-06 16:01:27,212 INFO  [Log] Clicked element is [[ChromeDriver: chrome on windows (0b28d93017695f7e9de28da363fc4b87)] -> xpath: (//*[name()='svg'][@class='icon icon-close'])[2]] 
+2023-09-06 16:01:28,046 INFO  [Log] Sent text is şort to [[ChromeDriver: chrome on windows (0b28d93017695f7e9de28da363fc4b87)] -> xpath: //input[@placeholder='Ürün, Marka Arayın']] 
+2023-09-06 16:01:28,436 INFO  [Log] Sent text is gömlek to [[ChromeDriver: chrome on windows (0b28d93017695f7e9de28da363fc4b87)] -> xpath: //input[@placeholder='Ürün, Marka Arayın']] 
+2023-09-06 16:01:28,473 INFO  [Log] Send ENTER 
+2023-09-06 16:01:32,839 INFO  [Log] Clicked element is [[ChromeDriver: chrome on windows (0b28d93017695f7e9de28da363fc4b87)] -> class name: m-productCard__photo] 
+2023-09-06 16:01:33,151 INFO  [Log] Successfully wrote to the file. 
+2023-09-06 16:01:43,446 INFO  [Log] element is [[ChromeDriver: chrome on windows (0b28d93017695f7e9de28da363fc4b87)] -> xpath: (//span[@class='m-variation__item -criticalStock'])] 
+2023-09-06 16:01:43,521 INFO  [Log] Clicked element is [[ChromeDriver: chrome on windows (0b28d93017695f7e9de28da363fc4b87)] -> xpath: (//span[@class='m-variation__item -criticalStock'])] 
+2023-09-06 16:01:43,708 INFO  [Log] element is [[ChromeDriver: chrome on windows (0b28d93017695f7e9de28da363fc4b87)] -> xpath: //*[@id="addBasket"]] 
+2023-09-06 16:01:43,804 INFO  [Log] Clicked element is [[ChromeDriver: chrome on windows (0b28d93017695f7e9de28da363fc4b87)] -> xpath: //*[@id="addBasket"]] 
+2023-09-06 16:01:58,364 INFO  [Log] Clicked element is Proxy element for: DefaultElementLocator 'By.xpath: //a[@title='Sepetim']' 
+2023-09-06 16:02:50,593 INFO  [Log] Main Page opened successfully 
+2023-09-06 16:02:52,715 INFO  [Log] Clicked element is [[ChromeDriver: chrome on windows (9c24b321ba7499da0a0e2797febb553a)] -> id: onetrust-accept-btn-handler] 
+2023-09-06 16:02:53,122 INFO  [Log] Clicked element is [[ChromeDriver: chrome on windows (9c24b321ba7499da0a0e2797febb553a)] -> xpath: (//*[name()='svg'][@class='icon icon-close'])[2]] 
+2023-09-06 16:02:53,946 INFO  [Log] Sent text is şort to [[ChromeDriver: chrome on windows (9c24b321ba7499da0a0e2797febb553a)] -> xpath: //input[@placeholder='Ürün, Marka Arayın']] 
+2023-09-06 16:02:54,393 INFO  [Log] Sent text is gömlek to [[ChromeDriver: chrome on windows (9c24b321ba7499da0a0e2797febb553a)] -> xpath: //input[@placeholder='Ürün, Marka Arayın']] 
+2023-09-06 16:02:54,402 INFO  [Log] Send ENTER 
+2023-09-06 16:02:59,005 INFO  [Log] Clicked element is [[ChromeDriver: chrome on windows (9c24b321ba7499da0a0e2797febb553a)] -> class name: m-productCard__photo] 
+2023-09-06 16:03:00,192 INFO  [Log] Successfully wrote to the file. 
+2023-09-06 16:03:10,437 INFO  [Log] element is [[ChromeDriver: chrome on windows (9c24b321ba7499da0a0e2797febb553a)] -> xpath: (//span[@class='m-variation__item -criticalStock'])] 
+2023-09-06 16:03:10,501 INFO  [Log] Clicked element is [[ChromeDriver: chrome on windows (9c24b321ba7499da0a0e2797febb553a)] -> xpath: (//span[@class='m-variation__item -criticalStock'])] 
+2023-09-06 16:03:10,665 INFO  [Log] element is [[ChromeDriver: chrome on windows (9c24b321ba7499da0a0e2797febb553a)] -> xpath: //*[@id="addBasket"]] 
+2023-09-06 16:03:10,768 INFO  [Log] Clicked element is [[ChromeDriver: chrome on windows (9c24b321ba7499da0a0e2797febb553a)] -> xpath: //*[@id="addBasket"]] 
+2023-09-06 16:03:25,141 INFO  [Log] Clicked element is Proxy element for: DefaultElementLocator 'By.xpath: //a[@title='Sepetim']' 
+2023-09-06 16:06:49,010 INFO  [Log] Main Page opened successfully 
+2023-09-06 16:06:50,662 INFO  [Log] Clicked element is [[ChromeDriver: chrome on windows (978cdd6380042bf83b5cf4cf755e35ed)] -> id: onetrust-accept-btn-handler] 
+2023-09-06 16:06:51,186 INFO  [Log] Clicked element is [[ChromeDriver: chrome on windows (978cdd6380042bf83b5cf4cf755e35ed)] -> xpath: (//*[name()='svg'][@class='icon icon-close'])[2]] 
+2023-09-06 16:06:51,615 INFO  [Log] Sent text is şort to [[ChromeDriver: chrome on windows (978cdd6380042bf83b5cf4cf755e35ed)] -> xpath: //input[@placeholder='Ürün, Marka Arayın']] 
+2023-09-06 16:06:51,893 INFO  [Log] Sent text is gömlek to [[ChromeDriver: chrome on windows (978cdd6380042bf83b5cf4cf755e35ed)] -> xpath: //input[@placeholder='Ürün, Marka Arayın']] 
+2023-09-06 16:06:51,901 INFO  [Log] Send ENTER 
+2023-09-06 16:06:55,452 INFO  [Log] Clicked element is [[ChromeDriver: chrome on windows (978cdd6380042bf83b5cf4cf755e35ed)] -> class name: m-productCard__photo] 
+2023-09-06 16:07:00,604 INFO  [Log] Successfully wrote to the file. 
+2023-09-06 16:07:05,779 INFO  [Log] element is [[ChromeDriver: chrome on windows (978cdd6380042bf83b5cf4cf755e35ed)] -> xpath: (//span[@class='m-variation__item -criticalStock'])] 
+2023-09-06 16:07:05,840 INFO  [Log] Clicked element is [[ChromeDriver: chrome on windows (978cdd6380042bf83b5cf4cf755e35ed)] -> xpath: (//span[@class='m-variation__item -criticalStock'])] 
+2023-09-06 16:07:06,002 INFO  [Log] element is [[ChromeDriver: chrome on windows (978cdd6380042bf83b5cf4cf755e35ed)] -> xpath: //*[@id="addBasket"]] 
+2023-09-06 16:07:06,118 INFO  [Log] Clicked element is [[ChromeDriver: chrome on windows (978cdd6380042bf83b5cf4cf755e35ed)] -> xpath: //*[@id="addBasket"]] 
+2023-09-06 16:07:20,227 INFO  [Log] Clicked element is Proxy element for: DefaultElementLocator 'By.xpath: //a[@title='Sepetim']' 
+2023-09-06 16:08:38,495 INFO  [Log] Main Page opened successfully 
+2023-09-06 16:08:38,774 INFO  [Log] Clicked element is [[ChromeDriver: chrome on windows (c47826c8425c85c066c53bcb19f4f13b)] -> id: onetrust-accept-btn-handler] 
+2023-09-06 16:08:40,038 INFO  [Log] Clicked element is [[ChromeDriver: chrome on windows (c47826c8425c85c066c53bcb19f4f13b)] -> xpath: (//*[name()='svg'][@class='icon icon-close'])[2]] 
+2023-09-06 16:08:40,524 INFO  [Log] Sent text is şort to [[ChromeDriver: chrome on windows (c47826c8425c85c066c53bcb19f4f13b)] -> xpath: //input[@placeholder='Ürün, Marka Arayın']] 
+2023-09-06 16:08:40,869 INFO  [Log] Sent text is gömlek to [[ChromeDriver: chrome on windows (c47826c8425c85c066c53bcb19f4f13b)] -> xpath: //input[@placeholder='Ürün, Marka Arayın']] 
+2023-09-06 16:08:40,874 INFO  [Log] Send ENTER 
+2023-09-06 16:08:44,337 INFO  [Log] Clicked element is [[ChromeDriver: chrome on windows (c47826c8425c85c066c53bcb19f4f13b)] -> class name: m-productCard__photo] 
+2023-09-06 16:08:44,578 INFO  [Log] Successfully wrote to the file. 
+2023-09-06 16:08:49,807 INFO  [Log] element is [[ChromeDriver: chrome on windows (c47826c8425c85c066c53bcb19f4f13b)] -> xpath: (//span[@class='m-variation__item -criticalStock'])] 
+2023-09-06 16:08:49,879 INFO  [Log] Clicked element is [[ChromeDriver: chrome on windows (c47826c8425c85c066c53bcb19f4f13b)] -> xpath: (//span[@class='m-variation__item -criticalStock'])] 
+2023-09-06 16:08:50,065 INFO  [Log] element is [[ChromeDriver: chrome on windows (c47826c8425c85c066c53bcb19f4f13b)] -> xpath: //*[@id="addBasket"]] 
+2023-09-06 16:08:50,162 INFO  [Log] Clicked element is [[ChromeDriver: chrome on windows (c47826c8425c85c066c53bcb19f4f13b)] -> xpath: //*[@id="addBasket"]] 
+2023-09-06 16:09:04,204 INFO  [Log] Clicked element is Proxy element for: DefaultElementLocator 'By.xpath: //a[@title='Sepetim']' 
+2023-09-06 16:09:04,329 INFO  [Log] Clicked element is [[ChromeDriver: chrome on windows (c47826c8425c85c066c53bcb19f4f13b)] -> xpath: //*[@id="quantitySelect0-key-0"]] 
+2023-09-06 16:12:37,296 INFO  [Log] Main Page opened successfully 
+2023-09-06 16:12:38,912 INFO  [Log] Clicked element is [[ChromeDriver: chrome on windows (8dd578de511f3cb0e0c7765dad1506c3)] -> id: onetrust-accept-btn-handler] 
+2023-09-06 16:12:39,202 INFO  [Log] Clicked element is [[ChromeDriver: chrome on windows (8dd578de511f3cb0e0c7765dad1506c3)] -> xpath: (//*[name()='svg'][@class='icon icon-close'])[2]] 
+2023-09-06 16:12:39,707 INFO  [Log] Sent text is şort to [[ChromeDriver: chrome on windows (8dd578de511f3cb0e0c7765dad1506c3)] -> xpath: //input[@placeholder='Ürün, Marka Arayın']] 
+2023-09-06 16:12:40,021 INFO  [Log] Sent text is gömlek to [[ChromeDriver: chrome on windows (8dd578de511f3cb0e0c7765dad1506c3)] -> xpath: //input[@placeholder='Ürün, Marka Arayın']] 
+2023-09-06 16:12:40,073 INFO  [Log] Send ENTER 
+2023-09-06 16:12:43,878 INFO  [Log] Clicked element is [[ChromeDriver: chrome on windows (8dd578de511f3cb0e0c7765dad1506c3)] -> class name: m-productCard__photo] 
+2023-09-06 16:12:44,148 INFO  [Log] Successfully wrote to the file. 
+2023-09-06 16:12:49,361 INFO  [Log] element is [[ChromeDriver: chrome on windows (8dd578de511f3cb0e0c7765dad1506c3)] -> xpath: (//span[@class='m-variation__item -criticalStock'])] 
+2023-09-06 16:12:49,423 INFO  [Log] Clicked element is [[ChromeDriver: chrome on windows (8dd578de511f3cb0e0c7765dad1506c3)] -> xpath: (//span[@class='m-variation__item -criticalStock'])] 
+2023-09-06 16:12:49,588 INFO  [Log] element is [[ChromeDriver: chrome on windows (8dd578de511f3cb0e0c7765dad1506c3)] -> xpath: //*[@id="addBasket"]] 
+2023-09-06 16:12:49,673 INFO  [Log] Clicked element is [[ChromeDriver: chrome on windows (8dd578de511f3cb0e0c7765dad1506c3)] -> xpath: //*[@id="addBasket"]] 
+2023-09-06 16:13:03,965 INFO  [Log] Clicked element is Proxy element for: DefaultElementLocator 'By.xpath: //a[@title='Sepetim']' 
+2023-09-06 16:13:04,075 INFO  [Log] Clicked element is [[ChromeDriver: chrome on windows (8dd578de511f3cb0e0c7765dad1506c3)] -> xpath: //*[@id="quantitySelect0-key-0"]] 
+2023-09-06 16:14:28,982 INFO  [Log] Main Page opened successfully 
+2023-09-06 16:14:30,573 INFO  [Log] Clicked element is [[ChromeDriver: chrome on windows (ecdcbe42b18f2a32ecb24b544e0aa00e)] -> id: onetrust-accept-btn-handler] 
+2023-09-06 16:14:31,064 INFO  [Log] Clicked element is [[ChromeDriver: chrome on windows (ecdcbe42b18f2a32ecb24b544e0aa00e)] -> xpath: (//*[name()='svg'][@class='icon icon-close'])[2]] 
+2023-09-06 16:14:31,551 INFO  [Log] Sent text is şort to [[ChromeDriver: chrome on windows (ecdcbe42b18f2a32ecb24b544e0aa00e)] -> xpath: //input[@placeholder='Ürün, Marka Arayın']] 
+2023-09-06 16:14:31,826 INFO  [Log] Sent text is gömlek to [[ChromeDriver: chrome on windows (ecdcbe42b18f2a32ecb24b544e0aa00e)] -> xpath: //input[@placeholder='Ürün, Marka Arayın']] 
+2023-09-06 16:14:31,834 INFO  [Log] Send ENTER 
+2023-09-06 16:14:35,966 INFO  [Log] Clicked element is [[ChromeDriver: chrome on windows (ecdcbe42b18f2a32ecb24b544e0aa00e)] -> class name: m-productCard__photo] 
+2023-09-06 16:14:41,158 INFO  [Log] Successfully wrote to the file. 
+2023-09-06 16:14:41,322 INFO  [Log] element is [[ChromeDriver: chrome on windows (ecdcbe42b18f2a32ecb24b544e0aa00e)] -> xpath: (//span[@class='m-variation__item'])] 
+2023-09-06 16:14:41,391 INFO  [Log] Clicked element is [[ChromeDriver: chrome on windows (ecdcbe42b18f2a32ecb24b544e0aa00e)] -> xpath: (//span[@class='m-variation__item'])] 
+2023-09-06 16:14:41,567 INFO  [Log] element is [[ChromeDriver: chrome on windows (ecdcbe42b18f2a32ecb24b544e0aa00e)] -> xpath: //*[@id="addBasket"]] 
+2023-09-06 16:14:41,662 INFO  [Log] Clicked element is [[ChromeDriver: chrome on windows (ecdcbe42b18f2a32ecb24b544e0aa00e)] -> xpath: //*[@id="addBasket"]] 
+2023-09-06 16:14:56,052 INFO  [Log] Clicked element is Proxy element for: DefaultElementLocator 'By.xpath: //a[@title='Sepetim']' 
+2023-09-06 16:15:01,223 INFO  [Log] Clicked element is [[ChromeDriver: chrome on windows (ecdcbe42b18f2a32ecb24b544e0aa00e)] -> xpath: //*[@id="quantitySelect0-key-0"]] 
+2023-09-06 16:15:01,434 INFO  [Log] Clicked element is [[ChromeDriver: chrome on windows (ecdcbe42b18f2a32ecb24b544e0aa00e)] -> xpath: //select[@id='quantitySelect0-key-0']/option] 
+2023-09-06 16:15:01,535 INFO  [Log] Clicked element is [[ChromeDriver: chrome on windows (ecdcbe42b18f2a32ecb24b544e0aa00e)] -> xpath: //button[@id='removeCartItemBtn0-key-0']] 
